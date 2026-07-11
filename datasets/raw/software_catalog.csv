@@ -1,0 +1,21 @@
+﻿software_id,company_id,name,vendor,license_model,is_cloud,monthly_cost_per_seat,annual_cost_per_seat,category
+sw-01,comp-001,Microsoft 365 Business Premium,Microsoft,per_seat,TRUE,22.00,264.00,Analytics
+sw-02,comp-001,Adobe Creative Cloud All Apps,Adobe,per_seat,TRUE,54.99,659.88,Creative
+sw-03,comp-001,Slack Enterprise Grid,Slack,per_user,TRUE,15.00,180.00,Project Management
+sw-04,comp-001,Zoom Business,Zoom Video Communications,per_user,TRUE,19.99,239.88,Creative
+sw-05,comp-001,Notion Team Plan,Notion Labs,per_user,TRUE,10.00,120.00,Analytics
+sw-06,comp-001,GitHub Enterprise,GitHub/Microsoft,per_user,TRUE,21.00,252.00,Dev Tools
+sw-07,comp-001,Jira Software Cloud,Atlassian,per_user,TRUE,7.75,93.00,Communication
+sw-08,comp-001,Confluence Cloud,Atlassian,per_user,TRUE,6.00,72.00,Analytics
+sw-09,comp-001,AutoCAD LT,Autodesk,per_seat,FALSE,50.00,600.00,Project Management
+sw-10,comp-001,Figma Professional,Figma,per_seat,TRUE,12.00,144.00,Dev Tools
+sw-11,comp-001,Salesforce Sales Cloud,Salesforce,per_user,TRUE,75.00,900.00,Dev Tools
+sw-12,comp-001,HubSpot Enterprise,HubSpot,per_user,TRUE,50.00,600.00,Creative
+sw-13,comp-001,Atlassian Bitbucket,Atlassian,per_user,TRUE,6.00,72.00,Productivity
+sw-14,comp-001,Datadog Infrastructure,Datadog,per_host,TRUE,15.00,180.00,CRM
+sw-15,comp-001,AWS Business Support,Amazon Web Services,enterprise,TRUE,100.00,1200.00,Communication
+sw-16,comp-001,Tableau Creator,Salesforce/Tableau,per_user,TRUE,70.00,840.00,Communication
+sw-17,comp-001,Power BI Pro,Microsoft,per_user,TRUE,10.00,120.00,Creative
+sw-18,comp-001,Monday.com Enterprise,Monday.com,per_user,TRUE,22.00,264.00,Productivity
+sw-19,comp-001,Zendesk Suite,Zendesk,per_user,TRUE,55.00,660.00,Productivity
+sw-20,comp-001,DocuSign Enterprise,DocuSign,per_user,TRUE,40.00,480.00,Creative

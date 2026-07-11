@@ -1,0 +1,11 @@
+﻿category_id,company_id,name,code,is_depreciable,useful_life_months
+cat-01,comp-001,Laptop,LAPTOP,TRUE,36
+cat-02,comp-001,Desktop,DESKTOP,TRUE,48
+cat-03,comp-001,Monitor,MONITOR,TRUE,60
+cat-04,comp-001,Smartphone,SMARTPHONE,TRUE,24
+cat-05,comp-001,Printer,PRINTER,TRUE,60
+cat-06,comp-001,Server,SERVER,TRUE,60
+cat-07,comp-001,Network Switch,NETWORK_SW,TRUE,84
+cat-08,comp-001,Router,ROUTER,TRUE,60
+cat-09,comp-001,Tablet,TABLET,TRUE,36
+cat-10,comp-001,Peripheral,PERIPHERAL,FALSE,

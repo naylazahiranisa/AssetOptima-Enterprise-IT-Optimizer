@@ -1,0 +1,301 @@
+﻿audit_id,company_id,user_id,action,entity_type,entity_id,ip_address,user_agent,created_at
+1,comp-001,emp-085,ai.query,license,ref-00357,10.160.230.63,Flutter/3.16 (Mobile; Android 14),2026-02-02 02:05:02+07
+2,comp-001,emp-082,user.logout,user,ref-00148,10.137.241.29,Flutter/3.16 (Mobile; Android 14),2026-05-14 00:27:36+07
+3,comp-001,emp-058,ai.query,license,ref-00177,10.97.199.182,Flutter/3.16 (Mobile; Android 14),2026-01-20 16:05:39+07
+4,comp-001,emp-066,report.generate,software,ref-00099,10.199.203.141,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-02 06:26:54+07
+5,comp-001,emp-071,license.create,notification,ref-00003,10.65.125.20,Flutter/3.16 (Mobile; Android 14),2026-04-07 05:46:24+07
+6,comp-001,emp-083,asset.create,employee,ref-00220,10.204.86.104,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-13 23:51:35+07
+7,comp-001,emp-075,ai.prediction.run,license,ref-00368,10.136.138.188,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-06-28 05:02:22+07
+8,comp-001,emp-050,ai.query,software,ref-00351,10.94.122.163,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-03-08 09:10:14+07
+9,comp-001,emp-031,license.assign,employee,ref-00398,10.27.164.93,Flutter/3.16 (Mobile; iOS 17.2),2026-01-23 19:57:48+07
+10,comp-001,emp-074,software.create,employee,ref-00439,10.116.77.251,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-16 08:51:55+07
+11,comp-001,emp-064,license.revoke,software,ref-00473,10.33.185.245,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-17 03:08:47+07
+12,comp-001,emp-042,employee.offboard,asset,ref-00413,10.70.16.119,Flutter/3.16 (Mobile; iOS 17.2),2026-01-24 19:36:36+07
+13,comp-001,emp-047,ai.query,software,ref-00126,10.69.69.90,Flutter/3.16 (Mobile; Android 14),2026-02-05 04:59:35+07
+14,comp-001,emp-073,license.assign,license,ref-00468,10.242.26.40,Flutter/3.16 (Mobile; Android 14),2026-04-28 01:08:01+07
+15,comp-001,emp-078,report.generate,user,ref-00137,10.224.75.197,Flutter/3.16 (Mobile; Android 14),2026-01-09 17:50:58+07
+16,comp-001,emp-046,user.logout,user,ref-00186,10.243.250.96,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-25 13:32:51+07
+17,comp-001,emp-013,software.create,software,ref-00477,10.130.78.229,Flutter/3.16 (Mobile; Android 14),2026-03-03 22:39:46+07
+18,comp-001,emp-060,employee.update,software,ref-00395,10.104.252.49,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-02 06:23:09+07
+19,comp-001,emp-079,report.generate,asset,ref-00416,10.165.228.143,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-02-23 14:32:00+07
+20,comp-001,emp-055,asset.create,software,ref-00200,10.124.134.58,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-14 09:46:51+07
+21,comp-001,emp-050,asset.create,user,ref-00020,10.245.7.179,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-18 21:57:19+07
+22,comp-001,emp-009,settings.update,notification,ref-00485,10.157.79.74,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-11 21:50:52+07
+23,comp-001,emp-047,software.create,user,ref-00280,10.92.44.213,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-25 13:50:46+07
+24,comp-001,emp-086,user.logout,user,ref-00421,10.205.139.230,Flutter/3.16 (Mobile; Android 14),2026-05-12 06:21:32+07
+25,comp-001,emp-059,license.revoke,employee,ref-00051,10.46.241.244,Flutter/3.16 (Mobile; Android 14),2026-05-17 18:58:17+07
+26,comp-001,emp-023,ai.query,software,ref-00239,10.132.2.146,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-04-10 12:55:06+07
+27,comp-001,emp-087,report.generate,user,ref-00341,10.71.193.27,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-01 12:14:37+07
+28,comp-001,emp-083,employee.update,notification,ref-00327,10.218.170.148,Flutter/3.16 (Mobile; iOS 17.2),2026-02-13 05:34:18+07
+29,comp-001,emp-045,asset.return,employee,ref-00237,10.218.166.206,Flutter/3.16 (Mobile; iOS 17.2),2026-03-04 12:28:08+07
+30,comp-001,emp-047,employee.update,license,ref-00385,10.16.156.21,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-17 20:49:58+07
+31,comp-001,emp-062,license.revoke,user,ref-00073,10.197.182.3,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-01 21:09:23+07
+32,comp-001,emp-055,settings.update,software,ref-00409,10.124.37.123,Flutter/3.16 (Mobile; iOS 17.2),2026-05-23 09:53:27+07
+33,comp-001,emp-045,license.create,user,ref-00396,10.101.16.123,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-10 10:03:32+07
+34,comp-001,emp-087,asset.create,software,ref-00129,10.147.206.107,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-27 16:55:21+07
+35,comp-001,emp-057,ai.query,license,ref-00055,10.132.251.39,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-14 12:35:04+07
+36,comp-001,emp-074,license.create,employee,ref-00015,10.249.6.10,Flutter/3.16 (Mobile; Android 14),2026-05-19 22:44:22+07
+37,comp-001,emp-079,employee.offboard,notification,ref-00191,10.105.161.4,Flutter/3.16 (Mobile; Android 14),2026-01-06 10:29:17+07
+38,comp-001,emp-047,employee.offboard,user,ref-00142,10.56.137.43,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-06 10:38:16+07
+39,comp-001,emp-075,report.generate,notification,ref-00282,10.209.34.154,Flutter/3.16 (Mobile; iOS 17.2),2026-03-25 03:15:13+07
+40,comp-001,emp-087,asset.assign,employee,ref-00158,10.50.214.199,Flutter/3.16 (Mobile; Android 14),2026-03-05 01:00:16+07
+41,comp-001,emp-023,settings.update,notification,ref-00401,10.36.99.77,Flutter/3.16 (Mobile; iOS 17.2),2026-05-12 14:17:57+07
+42,comp-001,emp-054,settings.update,user,ref-00259,10.161.81.232,Flutter/3.16 (Mobile; Android 14),2026-03-24 05:56:58+07
+43,comp-001,emp-006,employee.create,employee,ref-00092,10.27.134.112,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-04-23 10:26:10+07
+44,comp-001,emp-085,asset.assign,asset,ref-00038,10.63.115.132,Flutter/3.16 (Mobile; Android 14),2026-05-19 21:35:49+07
+45,comp-001,emp-043,license.revoke,software,ref-00091,10.234.127.243,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-16 09:47:54+07
+46,comp-001,emp-088,ai.query,asset,ref-00225,10.133.33.200,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-12 13:56:46+07
+47,comp-001,emp-099,license.assign,notification,ref-00097,10.81.245.16,Flutter/3.16 (Mobile; iOS 17.2),2026-05-20 23:22:20+07
+48,comp-001,emp-087,license.revoke,employee,ref-00264,10.196.209.187,Flutter/3.16 (Mobile; Android 14),2026-01-15 00:16:02+07
+49,comp-001,emp-046,software.create,asset,ref-00087,10.218.113.115,Flutter/3.16 (Mobile; Android 14),2026-04-18 07:05:06+07
+50,comp-001,emp-012,ai.prediction.run,notification,ref-00161,10.92.89.194,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-09 23:58:09+07
+51,comp-001,emp-097,user.logout,user,ref-00126,10.90.66.35,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-12 00:20:48+07
+52,comp-001,emp-059,user.logout,user,ref-00053,10.166.187.17,Flutter/3.16 (Mobile; Android 14),2026-06-18 19:02:35+07
+53,comp-001,emp-013,asset.return,notification,ref-00007,10.145.220.195,Flutter/3.16 (Mobile; Android 14),2026-02-07 16:09:16+07
+54,comp-001,emp-091,asset.assign,asset,ref-00383,10.158.179.139,Flutter/3.16 (Mobile; Android 14),2026-05-24 15:06:35+07
+55,comp-001,emp-067,asset.return,employee,ref-00060,10.76.75.160,Flutter/3.16 (Mobile; iOS 17.2),2026-02-16 02:17:17+07
+56,comp-001,emp-053,ai.prediction.run,asset,ref-00367,10.128.8.25,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-01-18 15:12:33+07
+57,comp-001,emp-092,ai.query,employee,ref-00460,10.52.239.54,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-10 20:48:37+07
+58,comp-001,emp-022,software.create,license,ref-00089,10.98.247.60,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-11 20:30:57+07
+59,comp-001,emp-011,user.logout,user,ref-00195,10.16.82.249,Flutter/3.16 (Mobile; iOS 17.2),2026-05-07 12:07:54+07
+60,comp-001,emp-086,license.create,user,ref-00130,10.198.68.97,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-16 02:56:31+07
+61,comp-001,emp-051,ai.prediction.run,user,ref-00238,10.142.77.142,Flutter/3.16 (Mobile; Android 14),2026-06-06 03:46:10+07
+62,comp-001,emp-048,employee.offboard,asset,ref-00438,10.121.163.153,Flutter/3.16 (Mobile; iOS 17.2),2026-04-07 12:53:04+07
+63,comp-001,emp-013,employee.update,asset,ref-00426,10.216.181.135,Flutter/3.16 (Mobile; iOS 17.2),2026-02-07 07:47:21+07
+64,comp-001,emp-047,license.revoke,asset,ref-00389,10.58.179.241,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-12 19:51:21+07
+65,comp-001,emp-078,asset.return,license,ref-00310,10.162.75.201,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-14 18:10:10+07
+66,comp-001,emp-099,asset.create,notification,ref-00426,10.208.95.111,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-22 00:21:33+07
+67,comp-001,emp-052,employee.update,notification,ref-00231,10.130.193.26,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-14 19:53:41+07
+68,comp-001,emp-096,asset.update,notification,ref-00191,10.195.126.78,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-03-07 12:43:18+07
+69,comp-001,emp-016,report.generate,software,ref-00299,10.220.241.2,Flutter/3.16 (Mobile; iOS 17.2),2026-03-14 20:26:15+07
+70,comp-001,emp-011,license.revoke,employee,ref-00403,10.63.4.109,Flutter/3.16 (Mobile; iOS 17.2),2026-05-06 14:19:51+07
+71,comp-001,emp-017,user.login,user,ref-00011,10.240.99.28,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-03-18 11:03:55+07
+72,comp-001,emp-099,license.revoke,asset,ref-00418,10.211.65.234,Flutter/3.16 (Mobile; Android 14),2026-03-28 10:17:31+07
+73,comp-001,emp-043,ai.prediction.run,software,ref-00112,10.105.154.24,Flutter/3.16 (Mobile; Android 14),2026-06-27 09:10:40+07
+74,comp-001,emp-083,asset.update,license,ref-00273,10.69.79.139,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-06-06 03:15:58+07
+75,comp-001,emp-095,user.logout,user,ref-00245,10.97.245.55,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-04 05:48:25+07
+76,comp-001,emp-079,asset.assign,asset,ref-00366,10.179.23.124,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-06 20:10:54+07
+77,comp-001,emp-085,asset.assign,license,ref-00246,10.157.234.227,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-24 16:42:05+07
+78,comp-001,emp-054,software.create,software,ref-00366,10.86.44.143,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-12 14:41:20+07
+79,comp-001,emp-046,license.create,user,ref-00355,10.72.75.157,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-06-03 07:27:17+07
+80,comp-001,emp-046,ai.prediction.run,employee,ref-00165,10.223.110.235,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-25 10:23:33+07
+81,comp-001,emp-076,asset.create,user,ref-00057,10.101.67.209,Flutter/3.16 (Mobile; Android 14),2026-05-25 10:53:32+07
+82,comp-001,emp-032,license.assign,asset,ref-00251,10.183.65.209,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-02-01 13:13:23+07
+83,comp-001,emp-081,asset.assign,software,ref-00054,10.109.104.47,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-06-09 20:02:23+07
+84,comp-001,emp-093,user.login,user,ref-00038,10.33.104.172,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-06-12 03:00:33+07
+85,comp-001,emp-012,ai.query,software,ref-00097,10.122.41.228,Flutter/3.16 (Mobile; iOS 17.2),2026-04-04 17:35:54+07
+86,comp-001,emp-037,employee.create,employee,ref-00274,10.182.181.54,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-05 23:07:04+07
+87,comp-001,emp-031,report.generate,software,ref-00416,10.69.176.224,Flutter/3.16 (Mobile; iOS 17.2),2026-04-24 13:07:52+07
+88,comp-001,emp-047,software.create,asset,ref-00311,10.2.96.170,Flutter/3.16 (Mobile; Android 14),2026-05-21 02:33:41+07
+89,comp-001,emp-077,user.logout,user,ref-00469,10.226.53.121,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-06-08 01:28:20+07
+90,comp-001,emp-086,report.generate,notification,ref-00171,10.43.204.156,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-10 04:08:07+07
+91,comp-001,emp-056,software.create,license,ref-00142,10.145.184.243,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-25 11:30:31+07
+92,comp-001,emp-015,license.assign,employee,ref-00327,10.103.162.123,Flutter/3.16 (Mobile; iOS 17.2),2026-05-11 02:43:29+07
+93,comp-001,emp-077,ai.prediction.run,notification,ref-00155,10.190.209.14,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-26 09:53:24+07
+94,comp-001,emp-076,license.assign,user,ref-00466,10.239.178.186,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-06-11 22:16:39+07
+95,comp-001,emp-043,license.assign,asset,ref-00271,10.66.28.42,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-02-13 03:59:27+07
+96,comp-001,emp-033,employee.update,asset,ref-00184,10.177.169.21,Flutter/3.16 (Mobile; iOS 17.2),2026-06-03 05:14:25+07
+97,comp-001,emp-077,asset.assign,software,ref-00281,10.56.191.36,Flutter/3.16 (Mobile; iOS 17.2),2026-06-10 15:36:25+07
+98,comp-001,emp-005,software.create,license,ref-00152,10.213.53.103,Flutter/3.16 (Mobile; iOS 17.2),2026-01-17 05:58:03+07
+99,comp-001,emp-083,ai.query,asset,ref-00239,10.32.193.113,Flutter/3.16 (Mobile; Android 14),2026-02-19 16:52:11+07
+100,comp-001,emp-053,license.assign,asset,ref-00485,10.194.37.54,Flutter/3.16 (Mobile; Android 14),2026-01-23 07:53:03+07
+101,comp-001,emp-075,report.generate,license,ref-00206,10.2.113.188,Flutter/3.16 (Mobile; Android 14),2026-03-21 09:47:02+07
+102,comp-001,emp-009,employee.update,employee,ref-00250,10.72.200.210,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-24 15:30:14+07
+103,comp-001,emp-069,license.revoke,license,ref-00078,10.170.157.56,Flutter/3.16 (Mobile; iOS 17.2),2026-05-26 08:50:46+07
+104,comp-001,emp-043,settings.update,employee,ref-00329,10.252.51.253,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-02-23 00:45:57+07
+105,comp-001,emp-026,employee.create,notification,ref-00145,10.198.228.44,Flutter/3.16 (Mobile; Android 14),2026-02-21 03:53:15+07
+106,comp-001,emp-031,settings.update,asset,ref-00104,10.114.236.151,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-03 04:50:52+07
+107,comp-001,emp-036,asset.create,notification,ref-00164,10.136.201.110,Flutter/3.16 (Mobile; iOS 17.2),2026-04-22 20:15:03+07
+108,comp-001,emp-055,settings.update,employee,ref-00486,10.56.188.209,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-11 08:23:34+07
+109,comp-001,emp-094,asset.update,software,ref-00320,10.36.50.185,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-06-01 13:40:23+07
+110,comp-001,emp-059,asset.create,employee,ref-00353,10.137.8.44,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-28 23:26:36+07
+111,comp-001,emp-017,license.create,license,ref-00358,10.104.154.85,Flutter/3.16 (Mobile; Android 14),2026-02-09 06:40:54+07
+112,comp-001,emp-026,asset.create,notification,ref-00274,10.14.247.242,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-21 15:13:43+07
+113,comp-001,emp-012,employee.create,asset,ref-00147,10.20.246.4,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-08 12:10:18+07
+114,comp-001,emp-019,settings.update,asset,ref-00304,10.40.92.52,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-02-01 09:14:33+07
+115,comp-001,emp-016,asset.return,employee,ref-00048,10.21.204.49,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-04-04 06:07:25+07
+116,comp-001,emp-052,report.generate,user,ref-00009,10.177.52.84,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-20 09:56:34+07
+117,comp-001,emp-099,employee.update,software,ref-00276,10.80.82.74,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-02-14 05:19:07+07
+118,comp-001,emp-057,software.create,license,ref-00424,10.155.172.64,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-03-04 13:40:32+07
+119,comp-001,emp-047,user.logout,user,ref-00261,10.26.121.49,Flutter/3.16 (Mobile; iOS 17.2),2026-02-02 05:19:58+07
+120,comp-001,emp-050,user.login,user,ref-00123,10.3.208.15,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-13 22:41:14+07
+121,comp-001,emp-009,asset.update,software,ref-00114,10.171.32.143,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-25 21:32:37+07
+122,comp-001,emp-027,license.create,user,ref-00180,10.23.182.30,Flutter/3.16 (Mobile; iOS 17.2),2026-05-16 04:06:53+07
+123,comp-001,emp-031,asset.create,employee,ref-00442,10.87.48.49,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-19 10:18:11+07
+124,comp-001,emp-022,report.generate,employee,ref-00447,10.112.230.161,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-28 12:28:19+07
+125,comp-001,emp-012,user.logout,user,ref-00011,10.218.170.75,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-20 20:48:22+07
+126,comp-001,emp-087,license.assign,license,ref-00345,10.126.56.27,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-06-04 17:39:10+07
+127,comp-001,emp-018,employee.create,asset,ref-00325,10.109.93.184,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-20 11:56:41+07
+128,comp-001,emp-099,asset.assign,employee,ref-00419,10.184.28.250,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-08 16:23:35+07
+129,comp-001,emp-011,user.logout,user,ref-00228,10.113.240.233,Flutter/3.16 (Mobile; Android 14),2026-03-04 05:50:52+07
+130,comp-001,emp-068,license.create,software,ref-00299,10.174.104.147,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-13 01:16:54+07
+131,comp-001,emp-049,report.generate,asset,ref-00276,10.69.16.49,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-18 14:45:52+07
+132,comp-001,emp-066,user.logout,user,ref-00020,10.200.192.250,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-27 16:30:26+07
+133,comp-001,emp-006,asset.update,license,ref-00363,10.196.85.124,Flutter/3.16 (Mobile; iOS 17.2),2026-04-23 04:19:16+07
+134,comp-001,emp-075,asset.create,license,ref-00061,10.170.250.233,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-12 16:55:39+07
+135,comp-001,emp-042,report.generate,asset,ref-00104,10.235.109.63,Flutter/3.16 (Mobile; iOS 17.2),2026-01-21 12:02:48+07
+136,comp-001,emp-053,employee.offboard,employee,ref-00483,10.209.217.7,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-12 18:16:11+07
+137,comp-001,emp-068,user.login,user,ref-00208,10.65.218.123,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-23 12:07:27+07
+138,comp-001,emp-082,employee.offboard,user,ref-00459,10.42.51.18,Flutter/3.16 (Mobile; Android 14),2026-03-02 21:36:53+07
+139,comp-001,emp-062,asset.update,asset,ref-00183,10.178.120.151,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-27 16:37:48+07
+140,comp-001,emp-050,ai.prediction.run,asset,ref-00364,10.129.125.117,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-03-08 18:44:48+07
+141,comp-001,emp-014,user.logout,user,ref-00050,10.77.147.88,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-19 16:14:03+07
+142,comp-001,emp-022,asset.assign,notification,ref-00380,10.248.255.235,Flutter/3.16 (Mobile; Android 14),2026-02-28 06:19:11+07
+143,comp-001,emp-032,report.generate,license,ref-00299,10.160.76.143,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-09 09:28:09+07
+144,comp-001,emp-098,employee.create,notification,ref-00036,10.231.112.254,Flutter/3.16 (Mobile; iOS 17.2),2026-02-24 10:13:13+07
+145,comp-001,emp-074,user.login,user,ref-00379,10.83.239.48,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-13 06:53:48+07
+146,comp-001,emp-006,employee.update,user,ref-00085,10.227.184.105,Flutter/3.16 (Mobile; Android 14),2026-01-20 14:07:05+07
+147,comp-001,emp-029,ai.query,employee,ref-00083,10.206.85.139,Flutter/3.16 (Mobile; Android 14),2026-04-03 07:05:35+07
+148,comp-001,emp-026,license.assign,asset,ref-00234,10.123.198.18,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-21 02:33:15+07
+149,comp-001,emp-083,employee.create,software,ref-00289,10.198.90.51,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-15 07:00:49+07
+150,comp-001,emp-045,employee.update,notification,ref-00012,10.238.169.67,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-17 04:24:47+07
+151,comp-001,emp-016,employee.update,license,ref-00301,10.191.111.22,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-15 06:12:31+07
+152,comp-001,emp-029,user.login,user,ref-00474,10.50.205.20,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-03 06:56:35+07
+153,comp-001,emp-026,report.generate,notification,ref-00099,10.197.247.173,Flutter/3.16 (Mobile; Android 14),2026-05-06 07:17:31+07
+154,comp-001,emp-067,license.create,notification,ref-00161,10.78.63.217,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-12 17:10:14+07
+155,comp-001,emp-071,asset.return,user,ref-00309,10.196.167.93,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-17 21:09:09+07
+156,comp-001,emp-010,ai.query,license,ref-00308,10.113.102.78,Flutter/3.16 (Mobile; iOS 17.2),2026-02-01 07:05:06+07
+157,comp-001,emp-014,asset.update,license,ref-00221,10.131.227.96,Flutter/3.16 (Mobile; Android 14),2026-05-02 21:38:26+07
+158,comp-001,emp-047,asset.create,notification,ref-00126,10.76.72.129,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-06-09 03:24:53+07
+159,comp-001,emp-057,settings.update,license,ref-00044,10.24.166.178,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-02-13 00:54:13+07
+160,comp-001,emp-055,report.generate,employee,ref-00258,10.188.46.138,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-01-08 06:40:39+07
+161,comp-001,emp-077,asset.create,employee,ref-00405,10.135.239.194,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-28 11:16:03+07
+162,comp-001,emp-006,license.assign,notification,ref-00036,10.169.165.86,Flutter/3.16 (Mobile; Android 14),2026-03-25 17:36:57+07
+163,comp-001,emp-008,asset.return,asset,ref-00332,10.94.79.157,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-05 22:06:15+07
+164,comp-001,emp-074,asset.update,software,ref-00239,10.203.115.113,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-23 13:06:53+07
+165,comp-001,emp-007,employee.update,license,ref-00066,10.170.10.14,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-27 14:05:52+07
+166,comp-001,emp-070,asset.return,employee,ref-00089,10.226.25.28,Flutter/3.16 (Mobile; Android 14),2026-06-28 20:43:06+07
+167,comp-001,emp-017,settings.update,asset,ref-00027,10.145.227.186,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-12 03:46:18+07
+168,comp-001,emp-047,ai.prediction.run,license,ref-00037,10.197.3.40,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-17 07:20:15+07
+169,comp-001,emp-076,user.logout,user,ref-00246,10.126.237.10,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-22 03:25:57+07
+170,comp-001,emp-081,license.create,license,ref-00211,10.54.229.249,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-26 23:21:53+07
+171,comp-001,emp-037,ai.prediction.run,software,ref-00396,10.116.246.123,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-02 13:50:04+07
+172,comp-001,emp-051,asset.create,license,ref-00492,10.189.115.236,Flutter/3.16 (Mobile; Android 14),2026-01-17 12:30:21+07
+173,comp-001,emp-038,license.assign,notification,ref-00156,10.227.76.187,Flutter/3.16 (Mobile; iOS 17.2),2026-06-18 10:16:30+07
+174,comp-001,emp-078,ai.query,asset,ref-00055,10.90.239.87,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-17 09:23:11+07
+175,comp-001,emp-049,settings.update,asset,ref-00251,10.13.43.48,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-13 14:14:27+07
+176,comp-001,emp-046,asset.update,employee,ref-00232,10.13.9.38,Flutter/3.16 (Mobile; Android 14),2026-03-02 23:40:38+07
+177,comp-001,emp-048,user.logout,user,ref-00276,10.239.202.139,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-04-19 15:59:26+07
+178,comp-001,emp-025,employee.offboard,employee,ref-00283,10.251.196.48,Flutter/3.16 (Mobile; Android 14),2026-01-23 14:01:43+07
+179,comp-001,emp-092,employee.update,license,ref-00214,10.228.106.75,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-10 03:03:51+07
+180,comp-001,emp-087,license.assign,user,ref-00110,10.55.82.150,Flutter/3.16 (Mobile; Android 14),2026-02-07 04:13:31+07
+181,comp-001,emp-072,user.login,user,ref-00331,10.137.220.181,Flutter/3.16 (Mobile; Android 14),2026-06-06 12:09:13+07
+182,comp-001,emp-079,user.login,user,ref-00035,10.32.184.2,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-04-27 22:33:40+07
+183,comp-001,emp-073,asset.assign,license,ref-00459,10.225.12.252,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-01-18 10:50:52+07
+184,comp-001,emp-072,ai.prediction.run,employee,ref-00207,10.64.119.15,Flutter/3.16 (Mobile; iOS 17.2),2026-06-18 05:09:50+07
+185,comp-001,emp-037,asset.create,software,ref-00113,10.243.233.177,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-01-10 00:24:49+07
+186,comp-001,emp-078,report.generate,user,ref-00271,10.126.111.110,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-13 02:19:05+07
+187,comp-001,emp-077,asset.return,asset,ref-00058,10.63.162.93,Flutter/3.16 (Mobile; Android 14),2026-01-19 02:10:24+07
+188,comp-001,emp-093,license.revoke,license,ref-00496,10.95.69.204,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-05 00:07:30+07
+189,comp-001,emp-087,license.revoke,employee,ref-00322,10.183.17.188,Flutter/3.16 (Mobile; Android 14),2026-03-15 09:19:38+07
+190,comp-001,emp-063,asset.assign,software,ref-00004,10.142.66.148,Flutter/3.16 (Mobile; iOS 17.2),2026-04-06 21:28:25+07
+191,comp-001,emp-047,license.assign,software,ref-00078,10.203.102.243,Flutter/3.16 (Mobile; iOS 17.2),2026-01-18 21:01:36+07
+192,comp-001,emp-012,employee.create,license,ref-00362,10.232.183.59,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-25 11:55:11+07
+193,comp-001,emp-073,asset.update,software,ref-00478,10.161.233.55,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-13 22:25:18+07
+194,comp-001,emp-055,asset.assign,license,ref-00387,10.160.69.159,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-13 08:39:18+07
+195,comp-001,emp-053,software.create,user,ref-00043,10.125.195.197,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-06-23 09:14:53+07
+196,comp-001,emp-071,software.create,user,ref-00496,10.180.16.155,Flutter/3.16 (Mobile; Android 14),2026-05-07 21:02:37+07
+197,comp-001,emp-049,asset.assign,notification,ref-00304,10.40.156.252,Flutter/3.16 (Mobile; Android 14),2026-04-28 12:32:03+07
+198,comp-001,emp-009,ai.query,employee,ref-00412,10.27.172.69,Flutter/3.16 (Mobile; Android 14),2026-01-18 08:05:16+07
+199,comp-001,emp-015,user.login,user,ref-00465,10.106.100.88,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-04-03 07:15:36+07
+200,comp-001,emp-065,asset.return,license,ref-00440,10.122.100.117,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-05-24 23:00:52+07
+201,comp-001,emp-064,employee.offboard,employee,ref-00137,10.24.207.251,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-05 00:17:47+07
+202,comp-001,emp-087,asset.return,user,ref-00442,10.25.37.108,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-02-02 21:12:52+07
+203,comp-001,emp-008,report.generate,user,ref-00307,10.186.6.184,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-15 18:53:45+07
+204,comp-001,emp-081,software.create,employee,ref-00291,10.245.61.9,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-19 07:36:12+07
+205,comp-001,emp-097,asset.return,notification,ref-00236,10.145.177.90,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-01-09 13:12:01+07
+206,comp-001,emp-053,software.create,software,ref-00154,10.48.166.202,Flutter/3.16 (Mobile; iOS 17.2),2026-05-21 08:25:40+07
+207,comp-001,emp-008,ai.query,software,ref-00361,10.172.195.71,Flutter/3.16 (Mobile; iOS 17.2),2026-03-02 06:55:28+07
+208,comp-001,emp-021,ai.query,user,ref-00481,10.33.72.58,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-23 06:11:30+07
+209,comp-001,emp-042,software.create,asset,ref-00223,10.232.139.195,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-26 03:09:39+07
+210,comp-001,emp-080,license.create,software,ref-00235,10.179.136.78,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-04-09 07:17:35+07
+211,comp-001,emp-018,license.assign,license,ref-00147,10.23.105.194,Flutter/3.16 (Mobile; Android 14),2026-02-10 21:02:59+07
+212,comp-001,emp-083,ai.prediction.run,notification,ref-00408,10.140.180.253,Flutter/3.16 (Mobile; iOS 17.2),2026-03-22 04:30:33+07
+213,comp-001,emp-045,report.generate,employee,ref-00379,10.139.55.88,Flutter/3.16 (Mobile; Android 14),2026-05-02 00:23:25+07
+214,comp-001,emp-021,employee.create,user,ref-00086,10.94.82.54,Flutter/3.16 (Mobile; Android 14),2026-05-09 01:55:44+07
+215,comp-001,emp-065,software.create,license,ref-00077,10.58.108.235,Flutter/3.16 (Mobile; Android 14),2026-06-01 12:51:36+07
+216,comp-001,emp-080,report.generate,software,ref-00018,10.2.5.214,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-21 22:13:22+07
+217,comp-001,emp-068,employee.offboard,license,ref-00435,10.212.243.119,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-07 14:51:22+07
+218,comp-001,emp-052,employee.create,asset,ref-00147,10.110.129.230,Flutter/3.16 (Mobile; iOS 17.2),2026-01-19 01:36:50+07
+219,comp-001,emp-052,asset.update,user,ref-00188,10.158.49.69,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-27 21:48:08+07
+220,comp-001,emp-097,license.assign,software,ref-00479,10.113.255.82,Flutter/3.16 (Mobile; iOS 17.2),2026-02-21 19:20:51+07
+221,comp-001,emp-031,license.revoke,user,ref-00224,10.164.80.43,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-23 20:12:25+07
+222,comp-001,emp-031,settings.update,notification,ref-00385,10.27.87.132,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-06-17 21:03:49+07
+223,comp-001,emp-011,asset.assign,software,ref-00075,10.15.119.165,Flutter/3.16 (Mobile; iOS 17.2),2026-05-17 06:24:07+07
+224,comp-001,emp-086,employee.offboard,software,ref-00304,10.226.26.11,Flutter/3.16 (Mobile; iOS 17.2),2026-04-18 00:11:49+07
+225,comp-001,emp-027,license.revoke,employee,ref-00263,10.126.185.175,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-03-17 21:08:51+07
+226,comp-001,emp-047,ai.prediction.run,license,ref-00470,10.210.93.130,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-04-24 09:39:54+07
+227,comp-001,emp-029,license.revoke,notification,ref-00105,10.70.3.39,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-17 05:10:25+07
+228,comp-001,emp-085,ai.prediction.run,asset,ref-00354,10.120.45.159,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-08 17:37:30+07
+229,comp-001,emp-079,report.generate,license,ref-00454,10.110.142.74,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-06 09:24:47+07
+230,comp-001,emp-006,license.revoke,user,ref-00303,10.133.156.242,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-26 06:54:15+07
+231,comp-001,emp-099,license.create,asset,ref-00199,10.110.140.23,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-01-03 23:48:44+07
+232,comp-001,emp-049,employee.update,license,ref-00190,10.170.165.68,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-02-20 15:32:50+07
+233,comp-001,emp-097,license.revoke,notification,ref-00369,10.0.218.218,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-06-13 04:35:34+07
+234,comp-001,emp-045,asset.return,user,ref-00473,10.32.219.18,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-03-11 00:03:18+07
+235,comp-001,emp-002,user.login,user,ref-00105,10.220.74.190,Flutter/3.16 (Mobile; Android 14),2026-03-01 01:20:04+07
+236,comp-001,emp-096,settings.update,software,ref-00325,10.241.103.239,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-04-14 20:14:27+07
+237,comp-001,emp-014,software.create,employee,ref-00235,10.205.146.27,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-27 11:05:52+07
+238,comp-001,emp-052,ai.prediction.run,license,ref-00274,10.26.149.2,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-06-01 04:56:33+07
+239,comp-001,emp-016,ai.prediction.run,license,ref-00115,10.50.234.184,Flutter/3.16 (Mobile; Android 14),2026-02-25 12:17:26+07
+240,comp-001,emp-052,license.create,employee,ref-00049,10.44.159.21,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-04 02:13:52+07
+241,comp-001,emp-065,report.generate,software,ref-00107,10.67.177.121,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-03-18 19:19:31+07
+242,comp-001,emp-098,employee.offboard,license,ref-00016,10.209.169.166,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-06-04 07:02:03+07
+243,comp-001,emp-085,report.generate,asset,ref-00441,10.191.173.42,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-02-27 02:28:00+07
+244,comp-001,emp-010,software.create,license,ref-00018,10.172.126.111,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-21 08:16:09+07
+245,comp-001,emp-068,user.login,user,ref-00207,10.9.200.182,Flutter/3.16 (Mobile; iOS 17.2),2026-04-03 02:09:46+07
+246,comp-001,emp-091,license.revoke,employee,ref-00347,10.168.136.98,Flutter/3.16 (Mobile; iOS 17.2),2026-06-07 08:03:41+07
+247,comp-001,emp-023,asset.update,asset,ref-00100,10.83.91.67,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-01-13 03:19:59+07
+248,comp-001,emp-033,license.assign,software,ref-00316,10.182.12.125,Flutter/3.16 (Mobile; iOS 17.2),2026-05-22 06:40:01+07
+249,comp-001,emp-095,asset.return,user,ref-00157,10.42.48.214,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-01 09:28:46+07
+250,comp-001,emp-029,software.create,license,ref-00320,10.192.97.51,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-28 19:13:39+07
+251,comp-001,emp-012,employee.update,notification,ref-00257,10.213.143.218,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-21 07:05:34+07
+252,comp-001,emp-100,report.generate,employee,ref-00287,10.229.94.190,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-14 00:23:51+07
+253,comp-001,emp-058,asset.assign,user,ref-00087,10.164.101.187,Flutter/3.16 (Mobile; iOS 17.2),2026-04-01 08:18:33+07
+254,comp-001,emp-052,user.logout,user,ref-00205,10.127.62.22,Flutter/3.16 (Mobile; iOS 17.2),2026-02-04 12:48:30+07
+255,comp-001,emp-023,report.generate,user,ref-00414,10.2.185.57,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-01-10 06:04:24+07
+256,comp-001,emp-044,asset.update,license,ref-00124,10.72.141.97,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-06-15 03:49:09+07
+257,comp-001,emp-074,license.create,asset,ref-00062,10.111.161.218,Flutter/3.16 (Mobile; iOS 17.2),2026-06-20 01:34:27+07
+258,comp-001,emp-021,employee.create,employee,ref-00224,10.86.83.206,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-04-09 09:24:20+07
+259,comp-001,emp-082,employee.create,license,ref-00232,10.26.213.12,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-01-14 07:24:56+07
+260,comp-001,emp-012,license.assign,license,ref-00080,10.47.112.137,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-06-23 14:20:36+07
+261,comp-001,emp-020,asset.return,employee,ref-00329,10.58.16.193,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-07 22:15:23+07
+262,comp-001,emp-016,asset.update,asset,ref-00247,10.152.9.44,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-28 23:42:44+07
+263,comp-001,emp-080,employee.update,notification,ref-00106,10.148.186.56,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-01-09 21:03:36+07
+264,comp-001,emp-023,asset.create,license,ref-00392,10.196.175.178,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-14 07:03:09+07
+265,comp-001,emp-009,license.create,notification,ref-00486,10.13.58.72,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-15 20:06:24+07
+266,comp-001,emp-073,user.login,user,ref-00101,10.234.221.137,Flutter/3.16 (Mobile; iOS 17.2),2026-04-11 00:25:21+07
+267,comp-001,emp-060,employee.create,license,ref-00424,10.190.220.46,Flutter/3.16 (Mobile; Android 14),2026-02-28 04:30:31+07
+268,comp-001,emp-095,asset.assign,notification,ref-00370,10.50.247.197,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-06-05 19:21:14+07
+269,comp-001,emp-064,employee.update,user,ref-00052,10.204.82.122,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-23 04:51:23+07
+270,comp-001,emp-014,asset.return,user,ref-00376,10.77.197.15,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-05-06 17:42:30+07
+271,comp-001,emp-085,employee.update,asset,ref-00159,10.79.131.11,Flutter/3.16 (Mobile; iOS 17.2),2026-01-20 16:14:51+07
+272,comp-001,emp-068,asset.update,user,ref-00458,10.143.213.113,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-01-01 11:46:45+07
+273,comp-001,emp-036,asset.create,notification,ref-00038,10.161.196.156,Flutter/3.16 (Mobile; iOS 17.2),2026-06-08 03:14:35+07
+274,comp-001,emp-090,user.logout,user,ref-00141,10.186.43.34,Flutter/3.16 (Mobile; iOS 17.2),2026-03-17 18:05:37+07
+275,comp-001,emp-013,user.login,user,ref-00253,10.42.17.70,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-09 16:04:05+07
+276,comp-001,emp-027,asset.return,asset,ref-00105,10.113.21.223,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-02-03 04:40:25+07
+277,comp-001,emp-055,asset.update,software,ref-00276,10.45.63.89,Flutter/3.16 (Mobile; iOS 17.2),2026-06-06 07:07:14+07
+278,comp-001,emp-023,user.logout,user,ref-00254,10.116.120.72,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-01-07 19:34:26+07
+279,comp-001,emp-018,asset.assign,notification,ref-00493,10.232.30.245,Flutter/3.16 (Mobile; Android 14),2026-04-20 20:38:07+07
+280,comp-001,emp-048,license.revoke,employee,ref-00312,10.118.44.51,Flutter/3.16 (Mobile; Android 14),2026-06-13 15:26:07+07
+281,comp-001,emp-044,asset.create,asset,ref-00339,10.161.30.216,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-06 04:06:59+07
+282,comp-001,emp-095,asset.update,notification,ref-00125,10.3.226.145,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-23 05:24:04+07
+283,comp-001,emp-030,report.generate,software,ref-00457,10.135.214.72,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-01-06 22:20:39+07
+284,comp-001,emp-064,ai.prediction.run,user,ref-00423,10.203.33.2,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-05-13 04:08:35+07
+285,comp-001,emp-099,license.revoke,asset,ref-00042,10.196.162.61,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-06-15 18:59:32+07
+286,comp-001,emp-077,report.generate,notification,ref-00413,10.70.73.7,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-03-09 01:38:41+07
+287,comp-001,emp-099,user.logout,user,ref-00077,10.92.173.69,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-04-20 04:08:07+07
+288,comp-001,emp-078,settings.update,notification,ref-00124,10.89.99.178,Flutter/3.16 (Mobile; Android 14),2026-05-22 21:54:10+07
+289,comp-001,emp-023,asset.return,license,ref-00358,10.199.112.97,Flutter/3.16 (Mobile; Android 14),2026-05-07 12:50:53+07
+290,comp-001,emp-099,asset.return,software,ref-00254,10.240.140.76,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120,2026-03-05 19:04:14+07
+291,comp-001,emp-055,employee.offboard,user,ref-00111,10.17.209.190,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-01-15 15:38:27+07
+292,comp-001,emp-074,ai.prediction.run,employee,ref-00475,10.142.19.34,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-06-13 02:49:50+07
+293,comp-001,emp-022,asset.return,employee,ref-00436,10.179.252.121,Flutter/3.16 (Mobile; iOS 17.2),2026-02-05 13:07:27+07
+294,comp-001,emp-020,settings.update,notification,ref-00431,10.6.31.65,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-04-15 17:39:47+07
+295,comp-001,emp-067,employee.offboard,notification,ref-00114,10.236.237.134,Flutter/3.16 (Mobile; iOS 17.2),2026-01-11 03:08:09+07
+296,comp-001,emp-026,settings.update,user,ref-00003,10.130.105.225,Flutter/3.16 (Mobile; Android 14),2026-05-16 22:03:13+07
+297,comp-001,emp-065,settings.update,license,ref-00391,10.38.215.98,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-02-13 15:22:43+07
+298,comp-001,emp-077,user.logout,user,ref-00068,10.154.210.193,Flutter/3.16 (Mobile; iOS 17.2),2026-06-13 03:44:04+07
+299,comp-001,emp-053,settings.update,notification,ref-00091,10.10.139.75,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Safari/605,2026-06-19 17:10:07+07
+300,comp-001,emp-037,settings.update,employee,ref-00486,10.27.69.31,Mozilla/5.0 (X11; Linux x86_64) Firefox/121,2026-03-26 21:28:21+07

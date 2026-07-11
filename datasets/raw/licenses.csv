@@ -1,0 +1,21 @@
+﻿license_id,company_id,software_id,software_name,license_type,total_licenses,used_licenses,available_licenses,renewal_date,monthly_cost,annual_cost,total_monthly_cost,total_annual_cost,status
+lic-01,comp-001,sw-01,Microsoft 365 Business Premium,subscription,15,4,11,2026-11-21,22.00,264.00,330.00,3960.00,active
+lic-02,comp-001,sw-02,Adobe Creative Cloud All Apps,subscription,15,10,5,2026-12-15,54.99,659.88,824.85,9898.20,active
+lic-03,comp-001,sw-03,Slack Enterprise Grid,subscription,40,11,29,2026-12-25,15.00,180.00,600.00,7200.00,active
+lic-04,comp-001,sw-04,Zoom Business,subscription,50,25,25,2026-11-02,19.99,239.88,999.50,11994.00,active
+lic-05,comp-001,sw-05,Notion Team Plan,subscription,30,13,17,2026-10-26,10.00,120.00,300.00,3600.00,active
+lic-06,comp-001,sw-06,GitHub Enterprise,subscription,40,11,29,2026-02-20,21.00,252.00,840.00,10080.00,active
+lic-07,comp-001,sw-07,Jira Software Cloud,subscription,30,14,16,2026-08-18,7.75,93.00,232.50,2790.00,active
+lic-08,comp-001,sw-08,Confluence Cloud,subscription,50,27,23,2026-09-13,6.00,72.00,300.00,3600.00,active
+lic-09,comp-001,sw-09,AutoCAD LT,perpetual,30,21,9,2026-05-04,50.00,600.00,1500.00,18000.00,active
+lic-10,comp-001,sw-10,Figma Professional,subscription,40,9,31,2026-08-07,12.00,144.00,480.00,5760.00,active
+lic-11,comp-001,sw-11,Salesforce Sales Cloud,subscription,40,5,35,2026-07-04,75.00,900.00,3000.00,36000.00,active
+lic-12,comp-001,sw-12,HubSpot Enterprise,subscription,50,19,31,2026-12-05,50.00,600.00,2500.00,30000.00,active
+lic-13,comp-001,sw-13,Atlassian Bitbucket,subscription,10,6,4,2026-09-23,6.00,72.00,60.00,720.00,active
+lic-14,comp-001,sw-14,Datadog Infrastructure,subscription,100,95,5,2026-03-21,15.00,180.00,1500.00,18000.00,active
+lic-15,comp-001,sw-15,AWS Business Support,subscription,25,24,1,2026-10-24,100.00,1200.00,2500.00,30000.00,active
+lic-16,comp-001,sw-16,Tableau Creator,subscription,100,27,73,2026-09-01,70.00,840.00,7000.00,84000.00,active
+lic-17,comp-001,sw-17,Power BI Pro,subscription,100,39,61,2026-02-27,10.00,120.00,1000.00,12000.00,active
+lic-18,comp-001,sw-18,Monday.com Enterprise,subscription,100,42,58,2026-06-20,22.00,264.00,2200.00,26400.00,active
+lic-19,comp-001,sw-19,Zendesk Suite,subscription,10,4,6,2026-12-21,55.00,660.00,550.00,6600.00,active
+lic-20,comp-001,sw-20,DocuSign Enterprise,subscription,20,6,14,2026-04-25,40.00,480.00,800.00,9600.00,active

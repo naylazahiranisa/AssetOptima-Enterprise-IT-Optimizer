@@ -1,0 +1,136 @@
+﻿prediction_id,company_id,software_id,software_name,prediction_type,model_name,model_version,prediction_date,predicted_license_demand,actual_license_demand,confidence_score,is_anomaly
+pred-01-01,comp-001,sw-01,Microsoft 365 Business Premium,license_forecast,Prophet-v2,2.3.1,2026-01-01,37,36,0.7810,FALSE
+pred-01-02,comp-001,sw-01,Microsoft 365 Business Premium,license_forecast,Prophet-v2,2.3.1,2026-01-31,27,26,0.9742,FALSE
+pred-01-03,comp-001,sw-01,Microsoft 365 Business Premium,license_forecast,Prophet-v2,2.3.1,2026-03-02,36,37,0.8728,FALSE
+pred-01-04,comp-001,sw-01,Microsoft 365 Business Premium,license_forecast,Prophet-v2,2.3.1,2026-04-01,26,29,0.8096,FALSE
+pred-01-05,comp-001,sw-01,Microsoft 365 Business Premium,license_forecast,Prophet-v2,2.3.1,2026-05-01,30,30,0.8047,FALSE
+pred-01-06,comp-001,sw-01,Microsoft 365 Business Premium,license_forecast,Prophet-v2,2.3.1,2026-05-31,36,36,0.7722,FALSE
+pred-02-01,comp-001,sw-02,Adobe Creative Cloud All Apps,license_forecast,Prophet-v2,2.3.1,2026-01-01,28,26,0.7758,FALSE
+pred-02-02,comp-001,sw-02,Adobe Creative Cloud All Apps,license_forecast,Prophet-v2,2.3.1,2026-01-31,30,32,0.8602,FALSE
+pred-02-03,comp-001,sw-02,Adobe Creative Cloud All Apps,license_forecast,Prophet-v2,2.3.1,2026-03-02,48,51,0.8592,FALSE
+pred-02-04,comp-001,sw-02,Adobe Creative Cloud All Apps,license_forecast,Prophet-v2,2.3.1,2026-04-01,46,50,0.8873,FALSE
+pred-02-05,comp-001,sw-02,Adobe Creative Cloud All Apps,license_forecast,Prophet-v2,2.3.1,2026-05-01,37,42,0.7923,FALSE
+pred-02-06,comp-001,sw-02,Adobe Creative Cloud All Apps,license_forecast,Prophet-v2,2.3.1,2026-05-31,32,36,0.9238,FALSE
+pred-03-01,comp-001,sw-03,Slack Enterprise Grid,license_forecast,Prophet-v2,2.3.1,2026-01-01,26,22,0.8002,FALSE
+pred-03-02,comp-001,sw-03,Slack Enterprise Grid,license_forecast,Prophet-v2,2.3.1,2026-01-31,12,10,0.7777,FALSE
+pred-03-03,comp-001,sw-03,Slack Enterprise Grid,license_forecast,Prophet-v2,2.3.1,2026-03-02,16,17,0.9549,FALSE
+pred-03-04,comp-001,sw-03,Slack Enterprise Grid,license_forecast,Prophet-v2,2.3.1,2026-04-01,27,29,0.8890,FALSE
+pred-03-05,comp-001,sw-03,Slack Enterprise Grid,license_forecast,Prophet-v2,2.3.1,2026-05-01,52,47,0.9020,FALSE
+pred-03-06,comp-001,sw-03,Slack Enterprise Grid,license_forecast,Prophet-v2,2.3.1,2026-05-31,30,31,0.9102,FALSE
+pred-04-01,comp-001,sw-04,Zoom Business,license_forecast,Prophet-v2,2.3.1,2026-01-01,25,30,0.9301,FALSE
+pred-04-02,comp-001,sw-04,Zoom Business,license_forecast,Prophet-v2,2.3.1,2026-01-31,44,39,0.7612,FALSE
+pred-04-03,comp-001,sw-04,Zoom Business,license_forecast,Prophet-v2,2.3.1,2026-03-02,42,42,0.8800,FALSE
+pred-04-04,comp-001,sw-04,Zoom Business,license_forecast,Prophet-v2,2.3.1,2026-04-01,26,27,0.8943,FALSE
+pred-04-05,comp-001,sw-04,Zoom Business,license_forecast,Prophet-v2,2.3.1,2026-05-01,48,45,0.9757,FALSE
+pred-04-06,comp-001,sw-04,Zoom Business,license_forecast,Prophet-v2,2.3.1,2026-05-31,33,35,0.8920,FALSE
+pred-05-01,comp-001,sw-05,Notion Team Plan,license_forecast,Prophet-v2,2.3.1,2026-01-01,37,34,0.7904,FALSE
+pred-05-02,comp-001,sw-05,Notion Team Plan,license_forecast,Prophet-v2,2.3.1,2026-01-31,42,47,0.8678,FALSE
+pred-05-03,comp-001,sw-05,Notion Team Plan,license_forecast,Prophet-v2,2.3.1,2026-03-02,49,46,0.7840,FALSE
+pred-05-04,comp-001,sw-05,Notion Team Plan,license_forecast,Prophet-v2,2.3.1,2026-04-01,35,35,0.9482,FALSE
+pred-05-05,comp-001,sw-05,Notion Team Plan,license_forecast,Prophet-v2,2.3.1,2026-05-01,50,45,0.9030,FALSE
+pred-05-06,comp-001,sw-05,Notion Team Plan,license_forecast,Prophet-v2,2.3.1,2026-05-31,42,43,0.9459,FALSE
+pred-06-01,comp-001,sw-06,GitHub Enterprise,license_forecast,Prophet-v2,2.3.1,2026-01-01,28,27,0.8852,FALSE
+pred-06-02,comp-001,sw-06,GitHub Enterprise,license_forecast,Prophet-v2,2.3.1,2026-01-31,14,18,0.9443,FALSE
+pred-06-03,comp-001,sw-06,GitHub Enterprise,license_forecast,Prophet-v2,2.3.1,2026-03-02,35,33,0.9216,FALSE
+pred-06-04,comp-001,sw-06,GitHub Enterprise,license_forecast,Prophet-v2,2.3.1,2026-04-01,42,37,0.8470,FALSE
+pred-06-05,comp-001,sw-06,GitHub Enterprise,license_forecast,Prophet-v2,2.3.1,2026-05-01,49,49,0.8263,FALSE
+pred-06-06,comp-001,sw-06,GitHub Enterprise,license_forecast,Prophet-v2,2.3.1,2026-05-31,38,33,0.9648,FALSE
+pred-07-01,comp-001,sw-07,Jira Software Cloud,license_forecast,Prophet-v2,2.3.1,2026-01-01,22,23,0.8131,FALSE
+pred-07-02,comp-001,sw-07,Jira Software Cloud,license_forecast,Prophet-v2,2.3.1,2026-01-31,34,30,0.9132,FALSE
+pred-07-03,comp-001,sw-07,Jira Software Cloud,license_forecast,Prophet-v2,2.3.1,2026-03-02,30,27,0.8458,FALSE
+pred-07-04,comp-001,sw-07,Jira Software Cloud,license_forecast,Prophet-v2,2.3.1,2026-04-01,37,39,0.8154,FALSE
+pred-07-05,comp-001,sw-07,Jira Software Cloud,license_forecast,Prophet-v2,2.3.1,2026-05-01,35,34,0.8792,FALSE
+pred-07-06,comp-001,sw-07,Jira Software Cloud,license_forecast,Prophet-v2,2.3.1,2026-05-31,32,31,0.7869,FALSE
+pred-08-01,comp-001,sw-08,Confluence Cloud,license_forecast,Prophet-v2,2.3.1,2026-01-01,24,19,0.9177,FALSE
+pred-08-02,comp-001,sw-08,Confluence Cloud,license_forecast,Prophet-v2,2.3.1,2026-01-31,35,40,0.9224,FALSE
+pred-08-03,comp-001,sw-08,Confluence Cloud,license_forecast,Prophet-v2,2.3.1,2026-03-02,25,27,0.7940,FALSE
+pred-08-04,comp-001,sw-08,Confluence Cloud,license_forecast,Prophet-v2,2.3.1,2026-04-01,25,20,0.8028,FALSE
+pred-08-05,comp-001,sw-08,Confluence Cloud,license_forecast,Prophet-v2,2.3.1,2026-05-01,24,27,0.8135,FALSE
+pred-08-06,comp-001,sw-08,Confluence Cloud,license_forecast,Prophet-v2,2.3.1,2026-05-31,22,22,0.9371,FALSE
+pred-09-01,comp-001,sw-09,AutoCAD LT,license_forecast,Prophet-v2,2.3.1,2026-01-01,39,38,0.8296,FALSE
+pred-09-02,comp-001,sw-09,AutoCAD LT,license_forecast,Prophet-v2,2.3.1,2026-01-31,19,18,0.8939,FALSE
+pred-09-03,comp-001,sw-09,AutoCAD LT,license_forecast,Prophet-v2,2.3.1,2026-03-02,33,35,0.8045,FALSE
+pred-09-04,comp-001,sw-09,AutoCAD LT,license_forecast,Prophet-v2,2.3.1,2026-04-01,42,44,0.8902,FALSE
+pred-09-05,comp-001,sw-09,AutoCAD LT,license_forecast,Prophet-v2,2.3.1,2026-05-01,37,40,0.8430,FALSE
+pred-09-06,comp-001,sw-09,AutoCAD LT,license_forecast,Prophet-v2,2.3.1,2026-05-31,35,37,0.9635,FALSE
+pred-10-01,comp-001,sw-10,Figma Professional,license_forecast,Prophet-v2,2.3.1,2026-01-01,37,42,0.9038,FALSE
+pred-10-02,comp-001,sw-10,Figma Professional,license_forecast,Prophet-v2,2.3.1,2026-01-31,27,31,0.8057,FALSE
+pred-10-03,comp-001,sw-10,Figma Professional,license_forecast,Prophet-v2,2.3.1,2026-03-02,50,53,0.9389,FALSE
+pred-10-04,comp-001,sw-10,Figma Professional,license_forecast,Prophet-v2,2.3.1,2026-04-01,24,23,0.7723,FALSE
+pred-10-05,comp-001,sw-10,Figma Professional,license_forecast,Prophet-v2,2.3.1,2026-05-01,50,51,0.8619,FALSE
+pred-10-06,comp-001,sw-10,Figma Professional,license_forecast,Prophet-v2,2.3.1,2026-05-31,49,48,0.8523,FALSE
+pred-11-01,comp-001,sw-11,Salesforce Sales Cloud,license_forecast,Prophet-v2,2.3.1,2026-01-01,36,38,0.9507,FALSE
+pred-11-02,comp-001,sw-11,Salesforce Sales Cloud,license_forecast,Prophet-v2,2.3.1,2026-01-31,43,42,0.9677,FALSE
+pred-11-03,comp-001,sw-11,Salesforce Sales Cloud,license_forecast,Prophet-v2,2.3.1,2026-03-02,22,27,0.9205,FALSE
+pred-11-04,comp-001,sw-11,Salesforce Sales Cloud,license_forecast,Prophet-v2,2.3.1,2026-04-01,27,26,0.8044,FALSE
+pred-11-05,comp-001,sw-11,Salesforce Sales Cloud,license_forecast,Prophet-v2,2.3.1,2026-05-01,33,30,0.8061,FALSE
+pred-11-06,comp-001,sw-11,Salesforce Sales Cloud,license_forecast,Prophet-v2,2.3.1,2026-05-31,21,16,0.8399,FALSE
+pred-12-01,comp-001,sw-12,HubSpot Enterprise,license_forecast,Prophet-v2,2.3.1,2026-01-01,18,16,0.7531,FALSE
+pred-12-02,comp-001,sw-12,HubSpot Enterprise,license_forecast,Prophet-v2,2.3.1,2026-01-31,47,46,0.9301,FALSE
+pred-12-03,comp-001,sw-12,HubSpot Enterprise,license_forecast,Prophet-v2,2.3.1,2026-03-02,41,41,0.9654,FALSE
+pred-12-04,comp-001,sw-12,HubSpot Enterprise,license_forecast,Prophet-v2,2.3.1,2026-04-01,44,42,0.9487,FALSE
+pred-12-05,comp-001,sw-12,HubSpot Enterprise,license_forecast,Prophet-v2,2.3.1,2026-05-01,29,27,0.8966,FALSE
+pred-12-06,comp-001,sw-12,HubSpot Enterprise,license_forecast,Prophet-v2,2.3.1,2026-05-31,39,43,0.8692,FALSE
+pred-13-01,comp-001,sw-13,Atlassian Bitbucket,license_forecast,Prophet-v2,2.3.1,2026-01-01,21,23,0.9058,FALSE
+pred-13-02,comp-001,sw-13,Atlassian Bitbucket,license_forecast,Prophet-v2,2.3.1,2026-01-31,51,50,0.8871,FALSE
+pred-13-03,comp-001,sw-13,Atlassian Bitbucket,license_forecast,Prophet-v2,2.3.1,2026-03-02,33,33,0.9402,FALSE
+pred-13-04,comp-001,sw-13,Atlassian Bitbucket,license_forecast,Prophet-v2,2.3.1,2026-04-01,50,52,0.7858,FALSE
+pred-13-05,comp-001,sw-13,Atlassian Bitbucket,license_forecast,Prophet-v2,2.3.1,2026-05-01,51,50,0.7946,FALSE
+pred-13-06,comp-001,sw-13,Atlassian Bitbucket,license_forecast,Prophet-v2,2.3.1,2026-05-31,43,38,0.9453,FALSE
+pred-14-01,comp-001,sw-14,Datadog Infrastructure,license_forecast,Prophet-v2,2.3.1,2026-01-01,20,19,0.9305,FALSE
+pred-14-02,comp-001,sw-14,Datadog Infrastructure,license_forecast,Prophet-v2,2.3.1,2026-01-31,30,33,0.7948,FALSE
+pred-14-03,comp-001,sw-14,Datadog Infrastructure,license_forecast,Prophet-v2,2.3.1,2026-03-02,49,53,0.7669,FALSE
+pred-14-04,comp-001,sw-14,Datadog Infrastructure,license_forecast,Prophet-v2,2.3.1,2026-04-01,25,28,0.7575,FALSE
+pred-14-05,comp-001,sw-14,Datadog Infrastructure,license_forecast,Prophet-v2,2.3.1,2026-05-01,33,33,0.8064,FALSE
+pred-14-06,comp-001,sw-14,Datadog Infrastructure,license_forecast,Prophet-v2,2.3.1,2026-05-31,36,39,0.7885,FALSE
+pred-15-01,comp-001,sw-15,AWS Business Support,license_forecast,Prophet-v2,2.3.1,2026-01-01,46,45,0.8982,FALSE
+pred-15-02,comp-001,sw-15,AWS Business Support,license_forecast,Prophet-v2,2.3.1,2026-01-31,21,19,0.8819,FALSE
+pred-15-03,comp-001,sw-15,AWS Business Support,license_forecast,Prophet-v2,2.3.1,2026-03-02,46,46,0.9390,FALSE
+pred-15-04,comp-001,sw-15,AWS Business Support,license_forecast,Prophet-v2,2.3.1,2026-04-01,43,41,0.8508,FALSE
+pred-15-05,comp-001,sw-15,AWS Business Support,license_forecast,Prophet-v2,2.3.1,2026-05-01,38,35,0.7748,FALSE
+pred-15-06,comp-001,sw-15,AWS Business Support,license_forecast,Prophet-v2,2.3.1,2026-05-31,44,42,0.8025,FALSE
+pred-16-01,comp-001,sw-16,Tableau Creator,license_forecast,Prophet-v2,2.3.1,2026-01-01,39,37,0.8697,FALSE
+pred-16-02,comp-001,sw-16,Tableau Creator,license_forecast,Prophet-v2,2.3.1,2026-01-31,30,29,0.8988,FALSE
+pred-16-03,comp-001,sw-16,Tableau Creator,license_forecast,Prophet-v2,2.3.1,2026-03-02,22,19,0.8879,FALSE
+pred-16-04,comp-001,sw-16,Tableau Creator,license_forecast,Prophet-v2,2.3.1,2026-04-01,28,27,0.9459,FALSE
+pred-16-05,comp-001,sw-16,Tableau Creator,license_forecast,Prophet-v2,2.3.1,2026-05-01,24,26,0.8135,FALSE
+pred-16-06,comp-001,sw-16,Tableau Creator,license_forecast,Prophet-v2,2.3.1,2026-05-31,43,45,0.9601,FALSE
+pred-17-01,comp-001,sw-17,Power BI Pro,license_forecast,Prophet-v2,2.3.1,2026-01-01,23,20,0.8904,FALSE
+pred-17-02,comp-001,sw-17,Power BI Pro,license_forecast,Prophet-v2,2.3.1,2026-01-31,44,43,0.8996,FALSE
+pred-17-03,comp-001,sw-17,Power BI Pro,license_forecast,Prophet-v2,2.3.1,2026-03-02,47,45,0.9631,FALSE
+pred-17-04,comp-001,sw-17,Power BI Pro,license_forecast,Prophet-v2,2.3.1,2026-04-01,48,53,0.8256,FALSE
+pred-17-05,comp-001,sw-17,Power BI Pro,license_forecast,Prophet-v2,2.3.1,2026-05-01,50,48,0.8170,FALSE
+pred-17-06,comp-001,sw-17,Power BI Pro,license_forecast,Prophet-v2,2.3.1,2026-05-31,24,22,0.9366,FALSE
+pred-18-01,comp-001,sw-18,Monday.com Enterprise,license_forecast,Prophet-v2,2.3.1,2026-01-01,49,53,0.9113,FALSE
+pred-18-02,comp-001,sw-18,Monday.com Enterprise,license_forecast,Prophet-v2,2.3.1,2026-01-31,22,19,0.7983,FALSE
+pred-18-03,comp-001,sw-18,Monday.com Enterprise,license_forecast,Prophet-v2,2.3.1,2026-03-02,34,39,0.8866,FALSE
+pred-18-04,comp-001,sw-18,Monday.com Enterprise,license_forecast,Prophet-v2,2.3.1,2026-04-01,45,49,0.7754,FALSE
+pred-18-05,comp-001,sw-18,Monday.com Enterprise,license_forecast,Prophet-v2,2.3.1,2026-05-01,16,14,0.7991,FALSE
+pred-18-06,comp-001,sw-18,Monday.com Enterprise,license_forecast,Prophet-v2,2.3.1,2026-05-31,42,47,0.8760,FALSE
+pred-19-01,comp-001,sw-19,Zendesk Suite,license_forecast,Prophet-v2,2.3.1,2026-01-01,43,48,0.7636,FALSE
+pred-19-02,comp-001,sw-19,Zendesk Suite,license_forecast,Prophet-v2,2.3.1,2026-01-31,45,50,0.8632,FALSE
+pred-19-03,comp-001,sw-19,Zendesk Suite,license_forecast,Prophet-v2,2.3.1,2026-03-02,15,10,0.9410,FALSE
+pred-19-04,comp-001,sw-19,Zendesk Suite,license_forecast,Prophet-v2,2.3.1,2026-04-01,48,48,0.8772,FALSE
+pred-19-05,comp-001,sw-19,Zendesk Suite,license_forecast,Prophet-v2,2.3.1,2026-05-01,31,34,0.8315,FALSE
+pred-19-06,comp-001,sw-19,Zendesk Suite,license_forecast,Prophet-v2,2.3.1,2026-05-31,42,40,0.7504,FALSE
+pred-20-01,comp-001,sw-20,DocuSign Enterprise,license_forecast,Prophet-v2,2.3.1,2026-01-01,38,36,0.8191,FALSE
+pred-20-02,comp-001,sw-20,DocuSign Enterprise,license_forecast,Prophet-v2,2.3.1,2026-01-31,42,40,0.8920,FALSE
+pred-20-03,comp-001,sw-20,DocuSign Enterprise,license_forecast,Prophet-v2,2.3.1,2026-03-02,27,29,0.8417,FALSE
+pred-20-04,comp-001,sw-20,DocuSign Enterprise,license_forecast,Prophet-v2,2.3.1,2026-04-01,48,48,0.8258,FALSE
+pred-20-05,comp-001,sw-20,DocuSign Enterprise,license_forecast,Prophet-v2,2.3.1,2026-05-01,46,50,0.9664,FALSE
+pred-20-06,comp-001,sw-20,DocuSign Enterprise,license_forecast,Prophet-v2,2.3.1,2026-05-31,45,46,0.8416,FALSE
+pred-anom-07-1,comp-001,sw-07,Jira Software Cloud,dormant_detection,IsolationForest-v1,1.0.2,2026-04-19,10,9,0.8610,TRUE
+pred-anom-07-2,comp-001,sw-07,Jira Software Cloud,dormant_detection,IsolationForest-v1,1.0.2,2026-04-16,3,1,0.9229,TRUE
+pred-anom-07-3,comp-001,sw-07,Jira Software Cloud,dormant_detection,IsolationForest-v1,1.0.2,2026-01-16,12,10,0.9335,TRUE
+pred-anom-02-1,comp-001,sw-02,Adobe Creative Cloud All Apps,dormant_detection,IsolationForest-v1,1.0.2,2026-02-07,3,5,0.9371,TRUE
+pred-anom-02-2,comp-001,sw-02,Adobe Creative Cloud All Apps,dormant_detection,IsolationForest-v1,1.0.2,2026-06-16,2,4,0.8747,TRUE
+pred-anom-02-3,comp-001,sw-02,Adobe Creative Cloud All Apps,dormant_detection,IsolationForest-v1,1.0.2,2026-04-15,12,11,0.8903,TRUE
+pred-anom-12-1,comp-001,sw-12,HubSpot Enterprise,dormant_detection,IsolationForest-v1,1.0.2,2026-03-05,8,9,0.9874,TRUE
+pred-anom-12-2,comp-001,sw-12,HubSpot Enterprise,dormant_detection,IsolationForest-v1,1.0.2,2026-05-17,8,10,0.9398,TRUE
+pred-anom-12-3,comp-001,sw-12,HubSpot Enterprise,dormant_detection,IsolationForest-v1,1.0.2,2026-04-29,12,11,0.8229,TRUE
+pred-anom-18-1,comp-001,sw-18,Monday.com Enterprise,dormant_detection,IsolationForest-v1,1.0.2,2026-03-01,6,8,0.9152,TRUE
+pred-anom-18-2,comp-001,sw-18,Monday.com Enterprise,dormant_detection,IsolationForest-v1,1.0.2,2026-06-10,3,5,0.9824,TRUE
+pred-anom-18-3,comp-001,sw-18,Monday.com Enterprise,dormant_detection,IsolationForest-v1,1.0.2,2026-05-22,8,9,0.8267,TRUE
+pred-anom-10-1,comp-001,sw-10,Figma Professional,dormant_detection,IsolationForest-v1,1.0.2,2026-06-21,9,8,0.8721,TRUE
+pred-anom-10-2,comp-001,sw-10,Figma Professional,dormant_detection,IsolationForest-v1,1.0.2,2026-02-07,5,7,0.8281,TRUE
+pred-anom-10-3,comp-001,sw-10,Figma Professional,dormant_detection,IsolationForest-v1,1.0.2,2026-01-13,9,11,0.9117,TRUE

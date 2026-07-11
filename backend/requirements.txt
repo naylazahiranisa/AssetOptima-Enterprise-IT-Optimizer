@@ -1,0 +1,49 @@
+# AssetOptima - Enterprise IT Asset & License Optimizer
+# Python dependencies
+
+# Web framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# Database
+sqlalchemy==2.0.36
+alembic==1.14.0
+psycopg2-binary==2.9.10
+asyncpg==0.30.0
+
+# Data validation
+pydantic[email]==2.10.3
+pydantic-settings==2.7.0
+
+# Environment
+python-dotenv==1.0.1
+
+# Authentication (future use)
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.2.1
+
+# Async HTTP (for testing)
+httpx==0.28.1
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+aiosqlite==0.20.0
+
+# AI / ML
+chromadb==1.5.9
+sentence-transformers==3.4.1
+transformers>=4.41.0,<5.0.0
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy==1.26.4
+torch>=2.0.0
+pillow>=10.0.0
+
+# Document parsing
+pypdf==5.1.0
+python-docx==1.1.2
+
+# LLM
+openai>=1.0.0

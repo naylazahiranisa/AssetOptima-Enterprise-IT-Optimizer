@@ -1,0 +1,11 @@
+﻿company_id,name,code,description,tax_id,phone,email,address,is_active,max_employees,subscription_plan,created_at
+comp-001,PT Global Solusi Teknologi,GST,Enterprise IT Solutions,41.614.928.2-824.97,+62-21-2335453,info@gst.co.id,"Jl. Gatot Subroto No. 500, Jakarta",TRUE,1000,enterprise,2024-01-02 09:00:00+07
+comp-002,PT Bank Digital Nusantara,BDN,Digital Banking,48.884.433.2-942.85,+62-21-5331406,info@bdn.co.id,"Jl. Sudirman No. 65, Jakarta",TRUE,250,business,2024-01-10 09:00:00+07
+comp-003,PT Ecommerce Maju Bersama,EMB,E-commerce Platform,93.123.803.8-282.59,+62-21-1617178,info@emb.co.id,"Jl. Sudirman No. 491, Jakarta",TRUE,500,starter,2024-01-18 09:00:00+07
+comp-004,PT Rumah Sakit Sejahtera,RSS,Healthcare Provider,47.209.559.3-879.48,+62-21-5922926,info@rss.co.id,"Jl. Gatot Subroto No. 280, Jakarta",TRUE,2000,business,2024-01-31 09:00:00+07
+comp-005,PT Universitas Harapan Bangsa,UHB,Education Institution,95.697.180.7-991.88,+62-21-4382025,info@uhb.co.id,"Jl. Rasuna Said No. 77, Jakarta",TRUE,100,enterprise,2024-01-05 09:00:00+07
+comp-006,PT Manufaktur Indonesia Jaya,MIJ,Manufacturing,59.771.844.3-981.61,+62-21-5418554,info@mij.co.id,"Jl. Kuningan No. 284, Jakarta",TRUE,500,starter,2024-01-04 09:00:00+07
+comp-007,PT Asuransi Jiwa Kita,AJK,Insurance,34.106.961.6-656.82,+62-21-7531343,info@ajk.co.id,"Jl. Sudirman No. 28, Jakarta",TRUE,2000,business,2024-01-14 09:00:00+07
+comp-008,PT Logistik Express Nusantara,LEN,Logistics & Supply Chain,94.159.397.9-679.49,+62-21-8077695,info@len.co.id,"Jl. Sudirman No. 176, Jakarta",TRUE,500,business,2024-01-11 09:00:00+07
+comp-009,PT Media Digital Kreatif,MDK,Media & Entertainment,78.953.531.4-666.99,+62-21-3744022,info@mdk.co.id,"Jl. Thamrin No. 14, Jakarta",TRUE,500,business,2024-01-16 09:00:00+07
+comp-010,PT Energi Terbarukan Mandiri,ETM,Renewable Energy,74.949.654.5-172.27,+62-21-3000528,info@etm.co.id,"Jl. Gatot Subroto No. 70, Jakarta",TRUE,500,starter,2024-01-11 09:00:00+07

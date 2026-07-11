@@ -1,0 +1,121 @@
+=== COMPANIES ===
+  PASS: No duplicate company codes
+  FAIL: No active companies
+
+=== DEPARTMENTS ===
+  PASS: All 10 departments reference valid companies
+  PASS: All 10 standard departments present
+
+=== EMPLOYEES ===
+  PASS: All 100 employees have valid data
+  PASS: No duplicate employee emails
+  PASS: All manager references valid
+
+=== ASSET CATEGORIES ===
+  PASS: All 10 categories valid
+
+=== ASSETS ===
+  PASS: No duplicate serial numbers
+  PASS: No duplicate asset tags
+  PASS: No negative prices
+  PASS: All 500 assets structurally valid
+
+=== QR CODES ===
+  PASS: All 500 QR values globally unique
+  PASS: One-to-one QR-to-asset mapping
+  PASS: All QR codes reference valid assets
+
+=== SOFTWARE CATALOG ===
+  PASS: No duplicate software names
+  PASS: All 20 software entries valid
+
+=== LICENSES ===
+  PASS: All 20 licenses structurally valid
+
+=== SOFTWARE USAGE LOGS (sample validation) ===
+  PASS: FK references in usage logs are valid
+  INFO: 40 active employees with ZERO usage logs (dormant)
+  INFO: Usage pattern distribution: {"0":0,"1-50":6,"51-200":10,"201-500":31,"501+":12}
+
+=== PREDICTIONS ===
+  PASS: All 135 predictions valid
+
+=== RECOMMENDATIONS ===
+  PASS: All 57 recommendations valid
+
+=== CHAT HISTORY ===
+  FAIL: chat chat-0000-01 invalid feedback_score: 175
+  FAIL: chat chat-0000-03 invalid feedback_score: 282
+  FAIL: chat chat-0001-01 invalid feedback_score: 121
+  FAIL: chat chat-0001-03 invalid feedback_score: 296
+  FAIL: chat chat-0002-01 invalid feedback_score: 249
+  FAIL: chat chat-0003-01 invalid feedback_score: 278
+  FAIL: chat chat-0003-03 invalid feedback_score: 142
+  FAIL: chat chat-0003-05 invalid feedback_score: 189
+  FAIL: chat chat-0004-01 invalid feedback_score: 121
+  FAIL: chat chat-0005-01 invalid feedback_score: 216
+  FAIL: chat chat-0006-01 invalid feedback_score: 180
+  FAIL: chat chat-0006-03 invalid feedback_score: 265
+  FAIL: chat chat-0007-01 invalid feedback_score: 195
+  FAIL: chat chat-0007-03 invalid feedback_score: 277
+  FAIL: chat chat-0007-05 invalid feedback_score: 124
+  FAIL: chat chat-0008-01 invalid feedback_score: 141
+  FAIL: chat chat-0008-03 invalid feedback_score: 201
+  FAIL: chat chat-0009-01 invalid feedback_score: 70
+  FAIL: chat chat-0010-01 invalid feedback_score: 186
+  FAIL: chat chat-0011-01 invalid feedback_score: 234
+  FAIL: chat chat-0012-01 invalid feedback_score: 239
+  FAIL: chat chat-0012-03 invalid feedback_score: 159
+  FAIL: chat chat-0013-01 invalid feedback_score: 89
+  FAIL: chat chat-0014-01 invalid feedback_score: 171
+  FAIL: chat chat-0014-03 invalid feedback_score: 272
+  FAIL: chat chat-0015-01 invalid feedback_score: 94
+  FAIL: chat chat-0016-01 invalid feedback_score: 200
+  FAIL: chat chat-0016-03 invalid feedback_score: 177
+  FAIL: chat chat-0017-01 invalid feedback_score: 195
+  FAIL: chat chat-0018-01 invalid feedback_score: 160
+  FAIL: chat chat-0018-03 invalid feedback_score: 266
+  FAIL: chat chat-0019-01 invalid feedback_score: 178
+  FAIL: chat chat-0019-03 invalid feedback_score: 206
+  FAIL: chat chat-0020-01 invalid feedback_score: 140
+  FAIL: chat chat-0020-03 invalid feedback_score: 244
+  FAIL: chat chat-0021-01 invalid feedback_score: 199
+  FAIL: chat chat-0021-03 invalid feedback_score: 137
+  FAIL: chat chat-0021-05 invalid feedback_score: 210
+  FAIL: chat chat-0022-01 invalid feedback_score: 163
+  FAIL: chat chat-0022-03 invalid feedback_score: 238
+  FAIL: chat chat-0022-05 invalid feedback_score: 211
+  FAIL: chat chat-0023-01 invalid feedback_score: 77
+  FAIL: chat chat-0024-01 invalid feedback_score: 153
+  FAIL: chat chat-0024-03 invalid feedback_score: 171
+  FAIL: chat chat-0025-01 invalid feedback_score: 66
+  FAIL: chat chat-0025-03 invalid feedback_score: 293
+  FAIL: chat chat-0025-05 invalid feedback_score: 55
+  FAIL: chat chat-0026-01 invalid feedback_score: 290
+  FAIL: chat chat-0026-03 invalid feedback_score: 75
+  FAIL: chat chat-0027-01 invalid feedback_score: 271
+  FAIL: chat chat-0028-01 invalid feedback_score: 155
+  FAIL: chat chat-0029-01 invalid feedback_score: 131
+  PASS: All 115 chat messages valid
+
+=== AUDIT LOGS ===
+  PASS: All 300 audit logs valid
+
+=== NOTIFICATIONS ===
+  PASS: All 100 notifications valid
+
+========================================
+VALIDATION SUMMARY
+========================================
+  Total datasets: 14
+  Total rows validated: 21877
+  Errors: 53
+  Warnings: 0
+  Result: FAIL
+
+=== AI ASSUMPTIONS ===
+  Daily/Heavy users (200+ logins): 43
+  Employees with zero logins: 41
+  Resigned/inactive employees still holding assets: 0
+  Licenses with available seats: 20
+  Software usage by department (sample): {"Information Technology":6624,"Finance & Accounting":4152,"Human Resources":3588,"Sales":2828,"Marketing":2808}

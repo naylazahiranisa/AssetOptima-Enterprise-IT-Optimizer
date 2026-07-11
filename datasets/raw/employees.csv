@@ -1,0 +1,101 @@
+﻿employee_id,company_id,department_id,full_name,first_name,last_name,email,phone,position,department_name,employment_status,join_date,resign_date,manager_id
+emp-001,comp-001,dept-01,Endah Pratama,Endah,Pratama,endah.pratama@company.co.id,+62-891-8728-2180,IT Support Specialist,Information Technology,inactive,2024-01-13,2024-11-25,emp-094
+emp-002,comp-001,dept-01,Oka Sudrajat,Oka,Sudrajat,oka.sudrajat@company.co.id,+62-825-2121-9374,IT Support Specialist,Information Technology,active,2024-01-22,,emp-001
+emp-003,comp-001,dept-01,Citra Susilo,Citra,Susilo,citra.susilo@company.co.id,+62-826-7413-4999,Cloud Architect,Information Technology,inactive,2021-07-27,2026-01-31,emp-001
+emp-004,comp-001,dept-01,Wulan Maryono,Wulan,Maryono,wulan.maryono@company.co.id,+62-818-3062-6731,DevOps Engineer,Information Technology,offboarding,2020-07-14,,emp-001
+emp-005,comp-001,dept-01,Mulyono Maryono,Mulyono,Maryono,mulyono.maryono@company.co.id,+62-892-2778-3435,Security Analyst,Information Technology,active,2019-04-13,,emp-001
+emp-006,comp-001,dept-01,Sari Irawan,Sari,Irawan,sari.irawan@company.co.id,+62-833-6307-6162,Cloud Architect,Information Technology,active,2023-02-28,,emp-001
+emp-007,comp-001,dept-01,Lutfi Saragih,Lutfi,Saragih,lutfi.saragih@company.co.id,+62-874-3011-4460,Security Analyst,Information Technology,active,2021-06-21,,emp-001
+emp-008,comp-001,dept-01,Putu Handoko,Putu,Handoko,putu.handoko@company.co.id,+62-840-2374-5922,Database Administrator,Information Technology,active,2023-08-20,,emp-001
+emp-009,comp-001,dept-01,Hendra Tan,Hendra,Tan,hendra.tan@company.co.id,+62-825-3493-6172,Helpdesk Support,Information Technology,active,2025-10-26,,emp-001
+emp-010,comp-001,dept-01,Cynthia Atmaja,Cynthia,Atmaja,cynthia.atmaja@company.co.id,+62-877-6867-8887,Helpdesk Support,Information Technology,active,2025-01-28,,emp-001
+emp-011,comp-001,dept-01,Putu Susanto,Putu,Susanto,putu.susanto@company.co.id,+62-871-7295-7304,IT Manager,Information Technology,active,2025-05-15,,emp-001
+emp-012,comp-001,dept-01,Gunawan Hidayat,Gunawan,Hidayat,gunawan.hidayat@company.co.id,+62-821-3244-6468,Network Engineer,Information Technology,active,2022-05-21,,emp-001
+emp-013,comp-001,dept-01,Silvi Tjahyadi,Silvi,Tjahyadi,silvi.tjahyadi@company.co.id,+62-820-1360-8297,Cloud Architect,Information Technology,active,2023-05-15,,emp-001
+emp-014,comp-001,dept-01,Nurul Santoso,Nurul,Santoso,nurul.santoso@company.co.id,+62-890-5566-8533,DevOps Engineer,Information Technology,active,2023-05-06,,emp-001
+emp-015,comp-001,dept-01,Silvi Prasetyo,Silvi,Prasetyo,silvi.prasetyo@company.co.id,+62-879-1578-4164,Security Analyst,Information Technology,active,2019-01-25,,emp-001
+emp-016,comp-001,dept-01,Oka Yulianto,Oka,Yulianto,oka.yulianto@company.co.id,+62-870-1243-3421,System Administrator,Information Technology,active,2024-09-02,,emp-001
+emp-017,comp-001,dept-01,Hesti Lie,Hesti,Lie,hesti.lie@company.co.id,+62-835-1588-5291,Database Administrator,Information Technology,active,2019-08-06,,emp-001
+emp-018,comp-001,dept-01,Gita Saragih,Gita,Saragih,gita.saragih@company.co.id,+62-895-4084-9173,DevOps Engineer,Information Technology,active,2023-12-06,,emp-001
+emp-019,comp-001,dept-01,Joko Atmaja,Joko,Atmaja,joko.atmaja@company.co.id,+62-851-4775-3833,Network Engineer,Information Technology,active,2022-02-14,,emp-001
+emp-020,comp-001,dept-01,Endah Tan,Endah,Tan,endah.tan@company.co.id,+62-826-5272-6574,Security Analyst,Information Technology,active,2021-12-30,,emp-001
+emp-021,comp-001,dept-02,Dede Nugroho,Dede,Nugroho,dede.nugroho@company.co.id,+62-864-9687-5363,Accounts Payable,Finance & Accounting,active,2020-08-28,,emp-094
+emp-022,comp-001,dept-02,Endah Kusuma,Endah,Kusuma,endah.kusuma@company.co.id,+62-818-4250-1242,Tax Specialist,Finance & Accounting,active,2024-04-02,,emp-021
+emp-023,comp-001,dept-02,Wulan Gunawan,Wulan,Gunawan,wulan.gunawan@company.co.id,+62-858-7485-1891,Internal Auditor,Finance & Accounting,active,2020-07-02,,emp-021
+emp-024,comp-001,dept-02,Bayu Suharto,Bayu,Suharto,bayu.suharto@company.co.id,+62-858-9741-1307,Financial Analyst,Finance & Accounting,notice,2021-12-26,,emp-021
+emp-025,comp-001,dept-02,Mega Hidayat,Mega,Hidayat,mega.hidayat@company.co.id,+62-887-7464-9331,Internal Auditor,Finance & Accounting,active,2025-11-16,,emp-021
+emp-026,comp-001,dept-02,Bella Winarso,Bella,Winarso,bella.winarso@company.co.id,+62-852-9247-5155,Accounts Payable,Finance & Accounting,active,2021-11-25,,emp-021
+emp-027,comp-001,dept-02,Zahra Ong,Zahra,Ong,zahra.ong@company.co.id,+62-822-8140-7466,Treasury Analyst,Finance & Accounting,active,2023-10-02,,emp-021
+emp-028,comp-001,dept-02,Wulan Saragih,Wulan,Saragih,wulan.saragih@company.co.id,+62-841-8287-7738,Tax Specialist,Finance & Accounting,inactive,2024-04-05,2024-12-14,emp-021
+emp-029,comp-001,dept-02,Cynthia Santoso,Cynthia,Santoso,cynthia.santoso@company.co.id,+62-897-9031-5141,Finance Manager,Finance & Accounting,active,2021-03-13,,emp-021
+emp-030,comp-001,dept-02,Kurniawan Dwiyanto,Kurniawan,Dwiyanto,kurniawan.dwiyanto@company.co.id,+62-825-2107-4936,Financial Analyst,Finance & Accounting,active,2023-12-31,,emp-021
+emp-031,comp-001,dept-02,Dede Nasution,Dede,Nasution,dede.nasution@company.co.id,+62-849-3185-5597,Financial Analyst,Finance & Accounting,active,2020-07-24,,emp-021
+emp-032,comp-001,dept-02,Nanda Supriyadi,Nanda,Supriyadi,nanda.supriyadi@company.co.id,+62-839-9965-7734,Accounts Receivable,Finance & Accounting,active,2019-01-02,,emp-021
+emp-033,comp-001,dept-03,Jatmiko Salim,Jatmiko,Salim,jatmiko.salim@company.co.id,+62-875-7866-4138,HR Generalist,Human Resources,active,2023-08-26,,emp-094
+emp-034,comp-001,dept-03,Rahmat Nasution,Rahmat,Nasution,rahmat.nasution@company.co.id,+62-853-1373-1180,Employee Relations Specialist,Human Resources,inactive,2019-07-18,2020-02-28,emp-033
+emp-035,comp-001,dept-03,Fitrianto Siregar,Fitrianto,Siregar,fitrianto.siregar@company.co.id,+62-876-8859-9040,Training Coordinator,Human Resources,inactive,2021-11-30,2025-09-04,emp-033
+emp-036,comp-001,dept-03,Laras Nasution,Laras,Nasution,laras.nasution@company.co.id,+62-842-3780-5796,HR Director,Human Resources,active,2020-05-22,,emp-033
+emp-037,comp-001,dept-03,Bunga Ong,Bunga,Ong,bunga.ong@company.co.id,+62-820-5729-4501,Compensation Analyst,Human Resources,active,2021-05-28,,emp-033
+emp-038,comp-001,dept-03,Dede Handoko,Dede,Handoko,dede.handoko@company.co.id,+62-851-7685-2938,HR Generalist,Human Resources,active,2024-03-30,,emp-033
+emp-039,comp-001,dept-03,Yusuf Dwiyanto,Yusuf,Dwiyanto,yusuf.dwiyanto@company.co.id,+62-815-2062-7862,HRIS Analyst,Human Resources,notice,2021-07-17,,emp-033
+emp-040,comp-001,dept-03,Farah Tjahyadi,Farah,Tjahyadi,farah.tjahyadi@company.co.id,+62-855-7294-3692,Recruitment Specialist,Human Resources,inactive,2021-11-27,2025-02-17,emp-033
+emp-041,comp-001,dept-04,Surya Handoko,Surya,Handoko,surya.handoko@company.co.id,+62-815-9868-1774,Campaign Coordinator,Marketing,offboarding,2020-05-14,,emp-094
+emp-042,comp-001,dept-04,Slamet Salim,Slamet,Salim,slamet.salim@company.co.id,+62-878-9388-1856,Digital Marketing Specialist,Marketing,active,2020-10-01,,emp-041
+emp-043,comp-001,dept-04,Dede Hidayat,Dede,Hidayat,dede.hidayat@company.co.id,+62-840-8925-1430,Content Writer,Marketing,active,2022-06-16,,emp-041
+emp-044,comp-001,dept-04,Putri Saputra,Putri,Saputra,putri.saputra@company.co.id,+62-841-1353-5432,Marketing Analyst,Marketing,active,2024-12-27,,emp-041
+emp-045,comp-001,dept-04,Ayu Tan,Ayu,Tan,ayu.tan@company.co.id,+62-870-5524-9672,Graphic Designer,Marketing,active,2021-11-21,,emp-041
+emp-046,comp-001,dept-04,Heru Nasution,Heru,Nasution,heru.nasution@company.co.id,+62-849-4491-9795,Marketing Manager,Marketing,active,2019-03-19,,emp-041
+emp-047,comp-001,dept-04,Puspita Mulyadi,Puspita,Mulyadi,puspita.mulyadi@company.co.id,+62-818-9082-4790,Graphic Designer,Marketing,active,2021-07-27,,emp-041
+emp-048,comp-001,dept-04,Ujang Kusuma,Ujang,Kusuma,ujang.kusuma@company.co.id,+62-856-3344-1187,SEO Specialist,Marketing,active,2024-09-13,,emp-041
+emp-049,comp-001,dept-04,Kadek Hermawan,Kadek,Hermawan,kadek.hermawan@company.co.id,+62-863-4963-1142,Graphic Designer,Marketing,active,2024-09-24,,emp-041
+emp-050,comp-001,dept-04,Dian Siregar,Dian,Siregar,dian.siregar@company.co.id,+62-866-6750-9788,Graphic Designer,Marketing,active,2020-06-08,,emp-041
+emp-051,comp-001,dept-05,Oka Halim,Oka,Halim,oka.halim@company.co.id,+62-833-6834-6832,Business Development,Sales,active,2021-10-12,,emp-094
+emp-052,comp-001,dept-05,Ratna Siregar,Ratna,Siregar,ratna.siregar@company.co.id,+62-832-4805-7451,Sales Representative,Sales,active,2025-10-07,,emp-051
+emp-053,comp-001,dept-05,Bayu Purnomo,Bayu,Purnomo,bayu.purnomo@company.co.id,+62-869-9980-8352,Sales Representative,Sales,active,2025-01-02,,emp-051
+emp-054,comp-001,dept-05,Hendra Salim,Hendra,Salim,hendra.salim@company.co.id,+62-880-1317-9506,Key Account Manager,Sales,active,2020-11-23,,emp-051
+emp-055,comp-001,dept-05,Bunga Atmaja,Bunga,Atmaja,bunga.atmaja@company.co.id,+62-850-4737-2602,Account Executive,Sales,active,2022-09-14,,emp-051
+emp-056,comp-001,dept-05,Edi Ong,Edi,Ong,edi.ong@company.co.id,+62-892-6448-2323,Inside Sales Specialist,Sales,active,2021-06-23,,emp-051
+emp-057,comp-001,dept-05,Nugroho Suharto,Nugroho,Suharto,nugroho.suharto@company.co.id,+62-884-1942-2334,Account Executive,Sales,active,2021-01-27,,emp-051
+emp-058,comp-001,dept-05,Elok Prasetyo,Elok,Prasetyo,elok.prasetyo@company.co.id,+62-857-3726-2436,Sales Manager,Sales,active,2019-02-25,,emp-051
+emp-059,comp-001,dept-05,Rahmat Suharto,Rahmat,Suharto,rahmat.suharto@company.co.id,+62-863-3540-6085,Sales Manager,Sales,active,2023-02-14,,emp-051
+emp-060,comp-001,dept-05,Mega Haryanto,Mega,Haryanto,mega.haryanto@company.co.id,+62-847-1844-7034,Sales Analyst,Sales,active,2024-07-03,,emp-051
+emp-061,comp-001,dept-06,Gilang Tan,Gilang,Tan,gilang.tan@company.co.id,+62-828-6863-5705,Contract Specialist,Legal & Compliance,notice,2022-01-15,,emp-094
+emp-062,comp-001,dept-06,Surya Susilo,Surya,Susilo,surya.susilo@company.co.id,+62-838-1438-2376,Risk Analyst,Legal & Compliance,active,2021-12-22,,emp-061
+emp-063,comp-001,dept-06,Yuli Sudrajat,Yuli,Sudrajat,yuli.sudrajat@company.co.id,+62-813-5413-6999,Corporate Secretary,Legal & Compliance,active,2021-10-30,,emp-061
+emp-064,comp-001,dept-06,Yuli Simanjuntak,Yuli,Simanjuntak,yuli.simanjuntak@company.co.id,+62-866-9344-1331,Corporate Secretary,Legal & Compliance,active,2022-05-24,,emp-061
+emp-065,comp-001,dept-06,Kiki Supriyadi,Kiki,Supriyadi,kiki.supriyadi@company.co.id,+62-838-7551-7581,Corporate Secretary,Legal & Compliance,active,2023-06-12,,emp-061
+emp-066,comp-001,dept-07,Slamet Atmaja,Slamet,Atmaja,slamet.atmaja@company.co.id,+62-886-1558-5770,Facility Manager,Operations,active,2019-06-23,,emp-094
+emp-067,comp-001,dept-07,Ayu Prasetyo,Ayu,Prasetyo,ayu.prasetyo@company.co.id,+62-869-3288-7666,Project Manager,Operations,active,2023-08-13,,emp-066
+emp-068,comp-001,dept-07,Gadis Sugiharto,Gadis,Sugiharto,gadis.sugiharto@company.co.id,+62-829-1610-1816,Facility Manager,Operations,active,2024-01-06,,emp-066
+emp-069,comp-001,dept-07,Silvi Purnomo,Silvi,Purnomo,silvi.purnomo@company.co.id,+62-811-7828-1351,Project Manager,Operations,active,2023-05-21,,emp-066
+emp-070,comp-001,dept-07,Gilang Siregar,Gilang,Siregar,gilang.siregar@company.co.id,+62-866-1973-8103,COO,Operations,active,2019-09-02,,emp-066
+emp-071,comp-001,dept-07,Gita Hidayat,Gita,Hidayat,gita.hidayat@company.co.id,+62-832-4706-6599,Logistics Coordinator,Operations,active,2024-03-15,,emp-066
+emp-072,comp-001,dept-07,Adi Nasution,Adi,Nasution,adi.nasution@company.co.id,+62-892-4609-3662,COO,Operations,active,2021-11-05,,emp-066
+emp-073,comp-001,dept-07,Dede Hermawan,Dede,Hermawan,dede.hermawan@company.co.id,+62-878-5137-7466,Quality Assurance Specialist,Operations,active,2022-12-05,,emp-066
+emp-074,comp-001,dept-07,Nugroho Wibowo,Nugroho,Wibowo,nugroho.wibowo@company.co.id,+62-879-3488-5054,Operations Analyst,Operations,active,2019-09-26,,emp-066
+emp-075,comp-001,dept-07,Sari Kusuma,Sari,Kusuma,sari.kusuma@company.co.id,+62-877-5545-7651,Facility Manager,Operations,active,2020-09-09,,emp-066
+emp-076,comp-001,dept-07,Rahmat Supriyadi,Rahmat,Supriyadi,rahmat.supriyadi@company.co.id,+62-887-6531-5074,Vendor Coordinator,Operations,active,2024-09-22,,emp-066
+emp-077,comp-001,dept-07,Bunga Setiawan,Bunga,Setiawan,bunga.setiawan@company.co.id,+62-867-2316-8342,Supply Chain Analyst,Operations,active,2022-09-09,,emp-066
+emp-078,comp-001,dept-08,Farah Purnomo,Farah,Purnomo,farah.purnomo@company.co.id,+62-816-6645-5934,Buyer,Procurement,active,2023-05-13,,emp-094
+emp-079,comp-001,dept-08,Ayu Nasution,Ayu,Nasution,ayu.nasution@company.co.id,+62-883-9575-6963,Supply Chain Planner,Procurement,active,2020-11-01,,emp-078
+emp-080,comp-001,dept-08,Fajar Suharto,Fajar,Suharto,fajar.suharto@company.co.id,+62-823-5353-3959,Strategic Sourcing Lead,Procurement,active,2024-11-06,,emp-078
+emp-081,comp-001,dept-08,Bayu Saputra,Bayu,Saputra,bayu.saputra@company.co.id,+62-885-7822-8151,Contract Administrator,Procurement,active,2023-12-15,,emp-078
+emp-082,comp-001,dept-08,Hesti Sudrajat,Hesti,Sudrajat,hesti.sudrajat@company.co.id,+62-866-6211-9670,Procurement Director,Procurement,active,2021-05-01,,emp-078
+emp-083,comp-001,dept-08,Nugroho Haryanto,Nugroho,Haryanto,nugroho.haryanto@company.co.id,+62-826-1045-3510,Supply Chain Planner,Procurement,active,2022-09-13,,emp-078
+emp-084,comp-001,dept-09,Fitrianto Haryanto,Fitrianto,Haryanto,fitrianto.haryanto@company.co.id,+62-887-6222-9969,Escalation Specialist,Customer Support,active,2023-05-31,,emp-094
+emp-085,comp-001,dept-09,Bunga Nugroho,Bunga,Nugroho,bunga.nugroho@company.co.id,+62-859-1753-5614,Call Center Lead,Customer Support,active,2025-10-25,,emp-084
+emp-086,comp-001,dept-09,Ujang Irawan,Ujang,Irawan,ujang.irawan@company.co.id,+62-888-2626-3427,Customer Service Manager,Customer Support,active,2022-11-17,,emp-084
+emp-087,comp-001,dept-09,Adi Wijaya,Adi,Wijaya,adi.wijaya@company.co.id,+62-832-6896-3303,Call Center Lead,Customer Support,active,2020-11-17,,emp-084
+emp-088,comp-001,dept-09,Mulyono Supriyadi,Mulyono,Supriyadi,mulyono.supriyadi@company.co.id,+62-814-4168-7822,Escalation Specialist,Customer Support,active,2025-03-10,,emp-084
+emp-089,comp-001,dept-09,Hesti Dwiyanto,Hesti,Dwiyanto,hesti.dwiyanto@company.co.id,+62-816-8594-2278,Quality Monitoring Analyst,Customer Support,active,2020-02-01,,emp-084
+emp-090,comp-001,dept-09,Farah Salim,Farah,Salim,farah.salim@company.co.id,+62-845-4925-9780,Call Center Lead,Customer Support,active,2022-04-30,,emp-084
+emp-091,comp-001,dept-09,Yuli Siregar,Yuli,Siregar,yuli.siregar@company.co.id,+62-877-4321-9265,Customer Service Manager,Customer Support,active,2019-06-21,,emp-084
+emp-092,comp-001,dept-09,Teguh Purnomo,Teguh,Purnomo,teguh.purnomo@company.co.id,+62-849-4296-1590,Call Center Lead,Customer Support,active,2022-11-23,,emp-084
+emp-093,comp-001,dept-09,Zainal Santoso,Zainal,Santoso,zainal.santoso@company.co.id,+62-823-8369-5960,Customer Success Manager,Customer Support,active,2021-02-07,,emp-084
+emp-094,comp-001,dept-10,Yuli Winarso,Yuli,Winarso,yuli.winarso@company.co.id,+62-813-9513-8786,Executive Assistant,Executive Management,active,2024-10-13,,emp-094
+emp-095,comp-001,dept-10,Dewi Hidayat,Dewi,Hidayat,dewi.hidayat@company.co.id,+62-838-9318-6398,CIO,Executive Management,active,2025-07-08,,emp-094
+emp-096,comp-001,dept-10,Fajar Gunawan,Fajar,Gunawan,fajar.gunawan@company.co.id,+62-854-3616-7329,CIO,Executive Management,active,2021-06-17,,emp-094
+emp-097,comp-001,dept-10,Ika Saragih,Ika,Saragih,ika.saragih@company.co.id,+62-886-4782-8051,CEO,Executive Management,active,2020-01-09,,emp-094
+emp-098,comp-001,dept-10,Bunga Sudrajat,Bunga,Sudrajat,bunga.sudrajat@company.co.id,+62-823-1154-5336,COO,Executive Management,active,2019-11-06,,emp-094
+emp-099,comp-001,dept-10,Sari Yulianto,Sari,Yulianto,sari.yulianto@company.co.id,+62-839-5108-6539,Executive Assistant,Executive Management,active,2025-09-02,,emp-094
+emp-100,comp-001,dept-10,Kiki Yulianto,Kiki,Yulianto,kiki.yulianto@company.co.id,+62-882-9317-9205,Board Secretary,Executive Management,active,2025-02-06,,emp-094

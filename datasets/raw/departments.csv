@@ -1,0 +1,11 @@
+﻿department_id,company_id,name,code,cost_center,is_active
+dept-01,comp-001,Information Technology,IT,CC-IT-83,TRUE
+dept-02,comp-001,Finance & Accounting,FIN,CC-FIN-89,TRUE
+dept-03,comp-001,Human Resources,HR,CC-HR-22,TRUE
+dept-04,comp-001,Marketing,MKT,CC-MKT-95,TRUE
+dept-05,comp-001,Sales,SALES,CC-SALES-45,TRUE
+dept-06,comp-001,Legal & Compliance,LEGAL,CC-LEGAL-94,TRUE
+dept-07,comp-001,Operations,OPS,CC-OPS-89,TRUE
+dept-08,comp-001,Procurement,PROC,CC-PROC-93,TRUE
+dept-09,comp-001,Customer Support,SUPPORT,CC-SUPPORT-20,TRUE
+dept-10,comp-001,Executive Management,EXEC,CC-EXEC-65,TRUE

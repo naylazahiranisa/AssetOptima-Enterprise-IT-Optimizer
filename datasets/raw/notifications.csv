@@ -1,0 +1,101 @@
+﻿notification_id,company_id,user_id,type,severity,title,message,is_read,reference_type,reference_id,created_at
+notif-001,comp-001,emp-066,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,TRUE,asset,ref-154,2026-05-20 14:24:00+07
+notif-002,comp-001,emp-003,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,license,ref-123,2026-01-04 09:28:00+07
+notif-003,comp-001,emp-077,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,FALSE,license,ref-313,2026-03-17 16:54:00+07
+notif-004,comp-001,emp-025,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,FALSE,employee,ref-411,2026-05-08 08:20:00+07
+notif-005,comp-001,emp-018,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,TRUE,prediction,ref-125,2026-06-17 15:28:00+07
+notif-006,comp-001,emp-040,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,FALSE,employee,ref-376,2026-05-05 08:20:00+07
+notif-007,comp-001,emp-037,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,TRUE,license,ref-226,2026-02-05 15:40:00+07
+notif-008,comp-001,emp-099,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,TRUE,license,ref-038,2026-01-04 09:41:00+07
+notif-009,comp-001,emp-069,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,TRUE,license,ref-454,2026-02-14 10:21:00+07
+notif-010,comp-001,emp-046,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,TRUE,employee,ref-498,2026-02-07 09:30:00+07
+notif-011,comp-001,emp-003,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,employee,ref-437,2026-03-25 11:53:00+07
+notif-012,comp-001,emp-050,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,FALSE,license,ref-298,2026-03-28 16:07:00+07
+notif-013,comp-001,emp-050,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,TRUE,asset,ref-271,2026-02-08 15:46:00+07
+notif-014,comp-001,emp-067,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,TRUE,asset,ref-050,2026-04-17 17:52:00+07
+notif-015,comp-001,emp-084,dormant_account,warning,Dormant software accounts detected,Dormant software accounts detected — please review and take action.,FALSE,asset,ref-208,2026-06-11 13:49:00+07
+notif-016,comp-001,emp-042,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,TRUE,license,ref-143,2026-06-15 09:22:00+07
+notif-017,comp-001,emp-028,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,FALSE,employee,ref-329,2026-05-23 17:16:00+07
+notif-018,comp-001,emp-100,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,employee,ref-074,2026-02-28 17:29:00+07
+notif-019,comp-001,emp-045,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,FALSE,license,ref-268,2026-06-03 08:29:00+07
+notif-020,comp-001,emp-083,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,TRUE,prediction,ref-128,2026-01-06 13:31:00+07
+notif-021,comp-001,emp-009,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,FALSE,asset,ref-158,2026-03-08 13:22:00+07
+notif-022,comp-001,emp-092,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,prediction,ref-498,2026-01-18 14:11:00+07
+notif-023,comp-001,emp-084,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,prediction,ref-227,2026-01-07 15:08:00+07
+notif-024,comp-001,emp-052,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,FALSE,employee,ref-323,2026-01-10 14:44:00+07
+notif-025,comp-001,emp-059,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,FALSE,prediction,ref-056,2026-05-28 14:54:00+07
+notif-026,comp-001,emp-027,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,FALSE,prediction,ref-278,2026-02-27 10:46:00+07
+notif-027,comp-001,emp-075,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,TRUE,license,ref-212,2026-03-16 16:21:00+07
+notif-028,comp-001,emp-057,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,FALSE,license,ref-288,2026-02-15 17:15:00+07
+notif-029,comp-001,emp-080,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,license,ref-107,2026-01-05 13:15:00+07
+notif-030,comp-001,emp-092,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,asset,ref-203,2026-06-14 11:17:00+07
+notif-031,comp-001,emp-039,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,TRUE,employee,ref-264,2026-02-21 13:42:00+07
+notif-032,comp-001,emp-073,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,TRUE,asset,ref-165,2026-01-23 09:40:00+07
+notif-033,comp-001,emp-077,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,FALSE,prediction,ref-299,2026-02-24 13:24:00+07
+notif-034,comp-001,emp-002,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,TRUE,employee,ref-303,2026-01-07 16:03:00+07
+notif-035,comp-001,emp-013,dormant_account,warning,Dormant software accounts detected,Dormant software accounts detected — please review and take action.,TRUE,asset,ref-456,2026-01-08 13:37:00+07
+notif-036,comp-001,emp-030,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,FALSE,prediction,ref-216,2026-06-28 10:10:00+07
+notif-037,comp-001,emp-067,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,TRUE,employee,ref-372,2026-05-04 12:48:00+07
+notif-038,comp-001,emp-075,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,employee,ref-431,2026-04-28 15:42:00+07
+notif-039,comp-001,emp-070,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,FALSE,employee,ref-110,2026-01-12 16:34:00+07
+notif-040,comp-001,emp-025,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,FALSE,license,ref-468,2026-05-15 12:46:00+07
+notif-041,comp-001,emp-050,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,TRUE,license,ref-040,2026-01-07 10:44:00+07
+notif-042,comp-001,emp-006,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,TRUE,license,ref-404,2026-01-15 15:38:00+07
+notif-043,comp-001,emp-038,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,FALSE,employee,ref-165,2026-01-28 11:33:00+07
+notif-044,comp-001,emp-066,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,FALSE,prediction,ref-338,2026-01-21 17:25:00+07
+notif-045,comp-001,emp-009,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,prediction,ref-221,2026-02-02 15:31:00+07
+notif-046,comp-001,emp-035,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,FALSE,asset,ref-337,2026-04-11 09:06:00+07
+notif-047,comp-001,emp-100,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,license,ref-242,2026-03-07 09:36:00+07
+notif-048,comp-001,emp-082,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,asset,ref-354,2026-04-23 09:19:00+07
+notif-049,comp-001,emp-023,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,asset,ref-286,2026-01-12 14:22:00+07
+notif-050,comp-001,emp-010,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,FALSE,prediction,ref-154,2026-03-07 15:58:00+07
+notif-051,comp-001,emp-008,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,FALSE,license,ref-284,2026-01-21 12:51:00+07
+notif-052,comp-001,emp-094,dormant_account,warning,Dormant software accounts detected,Dormant software accounts detected — please review and take action.,FALSE,employee,ref-025,2026-04-24 14:16:00+07
+notif-053,comp-001,emp-086,dormant_account,warning,Dormant software accounts detected,Dormant software accounts detected — please review and take action.,FALSE,prediction,ref-099,2026-05-24 17:41:00+07
+notif-054,comp-001,emp-028,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,TRUE,employee,ref-191,2026-01-10 17:26:00+07
+notif-055,comp-001,emp-020,dormant_account,warning,Dormant software accounts detected,Dormant software accounts detected — please review and take action.,TRUE,license,ref-481,2026-06-19 11:09:00+07
+notif-056,comp-001,emp-033,dormant_account,warning,Dormant software accounts detected,Dormant software accounts detected — please review and take action.,TRUE,prediction,ref-237,2026-04-26 11:57:00+07
+notif-057,comp-001,emp-083,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,TRUE,asset,ref-152,2026-06-05 17:25:00+07
+notif-058,comp-001,emp-021,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,FALSE,prediction,ref-175,2026-04-26 08:57:00+07
+notif-059,comp-001,emp-090,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,FALSE,asset,ref-295,2026-04-23 11:28:00+07
+notif-060,comp-001,emp-002,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,TRUE,license,ref-422,2026-02-15 14:50:00+07
+notif-061,comp-001,emp-081,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,TRUE,employee,ref-288,2026-04-09 16:37:00+07
+notif-062,comp-001,emp-070,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,TRUE,prediction,ref-216,2026-03-12 10:07:00+07
+notif-063,comp-001,emp-077,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,TRUE,license,ref-349,2026-01-23 15:58:00+07
+notif-064,comp-001,emp-053,dormant_account,warning,Dormant software accounts detected,Dormant software accounts detected — please review and take action.,FALSE,asset,ref-274,2026-01-01 09:57:00+07
+notif-065,comp-001,emp-012,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,FALSE,license,ref-469,2026-01-10 08:34:00+07
+notif-066,comp-001,emp-062,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,TRUE,employee,ref-015,2026-02-10 13:25:00+07
+notif-067,comp-001,emp-037,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,FALSE,license,ref-193,2026-01-07 11:12:00+07
+notif-068,comp-001,emp-097,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,FALSE,asset,ref-266,2026-06-13 11:38:00+07
+notif-069,comp-001,emp-008,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,FALSE,asset,ref-185,2026-04-18 13:53:00+07
+notif-070,comp-001,emp-009,maintenance_due,info,Asset maintenance scheduled,Asset maintenance scheduled — please review and take action.,TRUE,asset,ref-461,2026-03-02 17:58:00+07
+notif-071,comp-001,emp-002,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,FALSE,license,ref-098,2026-01-23 08:49:00+07
+notif-072,comp-001,emp-025,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,TRUE,employee,ref-042,2026-02-28 09:56:00+07
+notif-073,comp-001,emp-022,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,FALSE,license,ref-455,2026-06-21 09:27:00+07
+notif-074,comp-001,emp-095,dormant_account,warning,Dormant software accounts detected,Dormant software accounts detected — please review and take action.,FALSE,license,ref-447,2026-03-22 10:38:00+07
+notif-075,comp-001,emp-053,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,TRUE,prediction,ref-178,2026-06-23 09:02:00+07
+notif-076,comp-001,emp-091,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,FALSE,asset,ref-099,2026-05-16 13:14:00+07
+notif-077,comp-001,emp-027,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,FALSE,prediction,ref-056,2026-04-16 17:17:00+07
+notif-078,comp-001,emp-083,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,TRUE,asset,ref-128,2026-01-18 08:14:00+07
+notif-079,comp-001,emp-046,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,TRUE,prediction,ref-132,2026-05-28 11:07:00+07
+notif-080,comp-001,emp-045,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,TRUE,license,ref-061,2026-02-11 10:37:00+07
+notif-081,comp-001,emp-083,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,TRUE,license,ref-422,2026-01-03 11:08:00+07
+notif-082,comp-001,emp-036,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,TRUE,license,ref-162,2026-04-02 17:58:00+07
+notif-083,comp-001,emp-070,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,FALSE,employee,ref-245,2026-05-04 15:37:00+07
+notif-084,comp-001,emp-081,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,TRUE,license,ref-413,2026-01-09 14:37:00+07
+notif-085,comp-001,emp-012,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,FALSE,prediction,ref-477,2026-06-04 11:03:00+07
+notif-086,comp-001,emp-049,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,TRUE,asset,ref-351,2026-05-02 14:24:00+07
+notif-087,comp-001,emp-095,dormant_account,warning,Dormant software accounts detected,Dormant software accounts detected — please review and take action.,TRUE,prediction,ref-225,2026-04-11 17:31:00+07
+notif-088,comp-001,emp-005,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,TRUE,employee,ref-264,2026-05-06 16:16:00+07
+notif-089,comp-001,emp-026,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,TRUE,license,ref-254,2026-05-26 14:11:00+07
+notif-090,comp-001,emp-087,prediction,info,New AI prediction available,New AI prediction available — please review and take action.,TRUE,asset,ref-321,2026-03-06 11:06:00+07
+notif-091,comp-001,emp-087,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,TRUE,employee,ref-468,2026-04-01 08:27:00+07
+notif-092,comp-001,emp-022,dormant_account,warning,Dormant software accounts detected,Dormant software accounts detected — please review and take action.,FALSE,asset,ref-191,2026-06-18 13:10:00+07
+notif-093,comp-001,emp-016,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,FALSE,asset,ref-210,2026-05-06 13:00:00+07
+notif-094,comp-001,emp-061,asset_overdue,critical,Asset return is overdue,Asset return is overdue — please review and take action.,TRUE,employee,ref-432,2026-02-14 15:05:00+07
+notif-095,comp-001,emp-063,offboarding,info,Employee offboarding in progress,Employee offboarding in progress — please review and take action.,FALSE,employee,ref-037,2026-05-24 08:27:00+07
+notif-096,comp-001,emp-027,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,FALSE,employee,ref-137,2026-06-12 17:05:00+07
+notif-097,comp-001,emp-022,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,FALSE,prediction,ref-239,2026-06-23 12:39:00+07
+notif-098,comp-001,emp-012,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,TRUE,employee,ref-464,2026-06-15 15:29:00+07
+notif-099,comp-001,emp-060,recommendation,info,Cost-saving recommendation generated,Cost-saving recommendation generated — please review and take action.,TRUE,license,ref-132,2026-02-04 12:00:00+07
+notif-100,comp-001,emp-034,license_expiry,warning,Software license expiring soon,Software license expiring soon — please review and take action.,TRUE,employee,ref-119,2026-05-24 14:54:00+07
